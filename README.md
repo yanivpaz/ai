@@ -19,23 +19,6 @@ https://github.com/github/awesome-copilot?tab=readme-ov-file#-awesome-github-cop
 https://promptboost.dev/    
 
 
-## 📚 Documentation
-For detailed usage instructions, please refer to the [documentation](link-to-docs).
+## 📚 In middle 
+https://www.youtube.com/live/NrIc3ytJQU4
 
-## 🚧 Roadmap
-- **Phase 1**: Research and Development
-- **Phase 2**: Prototype Testing
-- **Phase 3**: User Feedback and Iteration
-
-## 💬 Contributing
-If you'd like to contribute, please read the [contributing guidelines](link-to-contributing).
-
-## 🔗 Connect with Us
-- **Email**: your-email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-
-## 📅 Current Date
-2026-02-14 11:28:09 (UTC)
-
-## 🙏 Acknowledgments
-Special thanks to everyone who has contributed to this project!
