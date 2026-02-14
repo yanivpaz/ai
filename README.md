@@ -10,11 +10,13 @@
 - [@KevinStratvert](https://www.youtube.com/@KevinStratvert/videos) - Technology and programming education
 
 ## 🌟 Hebrew specific
-- https://www.youtube.com/watch?v=hTGIuxUvStI
+- https://www.youtube.com/watch?v=hTGIuxUvStI - geekcode  
 
 
 ## 🚀 Links
-https://promptboost.dev/
+https://promptboost.dev/  
+https://github.com/github/awesome-copilot?tab=readme-ov-file#-awesome-github-copilot  
+
 
 
 ## 📚 Documentation
