@@ -10,7 +10,8 @@
 - [@KevinStratvert](https://www.youtube.com/@KevinStratvert/videos) - Technology and programming education
 
 ## 🌟 Introduction
-This project aims to explore the capabilities of AI in various applications, showcasing the potential and innovation it brings.
+- https://www.youtube.com/watch?v=hTGIuxUvStI
+
 
 ## 🚀 Features
 - **User-friendly Interface**: Interactive and easy to use.
