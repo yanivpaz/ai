@@ -8,6 +8,7 @@
 - [@KodeKloud](https://www.youtube.com/@KodeKloud/videos) - DevOps and cloud computing tutorials
 - [@Z-solutions-ai](https://www.youtube.com/@Z-solutions-ai/videos) - AI solutions and tutorials
 - [@KevinStratvert](https://www.youtube.com/@KevinStratvert/videos) - Technology and programming education
+- [@Yuvalavidaniai](https://www.youtube.com/@yuv-ai/videos) - Yuval avidani   
 
 ## 🌟 Hebrew specific
 - https://www.youtube.com/watch?v=hTGIuxUvStI - geekcode  
