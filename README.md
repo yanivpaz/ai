@@ -9,14 +9,13 @@
 - [@Z-solutions-ai](https://www.youtube.com/@Z-solutions-ai/videos) - AI solutions and tutorials
 - [@KevinStratvert](https://www.youtube.com/@KevinStratvert/videos) - Technology and programming education
 
-## 🌟 Introduction
+## 🌟 Hebrew specific
 - https://www.youtube.com/watch?v=hTGIuxUvStI
 
 
-## 🚀 Features
-- **User-friendly Interface**: Interactive and easy to use.
-- **High Performance**: Optimized algorithms for efficiency.
-- **Real-time Data Processing**: Instantaneous insights and responses.
+## 🚀 Links
+https://promptboost.dev/
+
 
 ## 📚 Documentation
 For detailed usage instructions, please refer to the [documentation](link-to-docs).
