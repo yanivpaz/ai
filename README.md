@@ -1,4 +1,4 @@
-# 🎉 Welcome to AI Project
+# 🎉 Videos
 
 ## 📺 Recommended YouTube Channels
 - [@code](https://www.youtube.com/@code/videos) - Code tutorials and programming content
@@ -11,15 +11,21 @@
 - [@Yuvalav](https://www.youtube.com/@yuv-ai/videos) - Yuval avidani   
 
 ## 🌟GeekCode Academy 
-- [Session 1](https://www.youtube.com/watch?v=hTGIuxUvStI)
-- [Session 2](https://youtu.be/ck4TBCpUWRw?si=SzfeU-wcmW5UAJwk)
-
-## 🚀 Links
-https://skills.sh/  
-https://github.com/github/awesome-copilot?tab=readme-ov-file#-awesome-github-copilot  
-https://promptboost.dev/    
+- [Session 1](https://www.youtube.com/watch?v=hTGIuxUvStI)  
+- [Session 2](https://youtu.be/ck4TBCpUWRw?si=SzfeU-wcmW5UAJwk)  
 
 
 ## 📚 Various sessions 
 - https://www.youtube.com/live/NrIc3ytJQU4
 - https://www.youtube.com/@MorNissim/videos - Mor 
+
+# Sites
+
+## 🚀 Skills 
+https://skills.sh/  
+https://www.aitmpl.com/skills
+
+## Links
+https://github.com/github/awesome-copilot?tab=readme-ov-file#-awesome-github-copilot  
+https://promptboost.dev/    
+
