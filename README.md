@@ -10,9 +10,9 @@
 - [@KevinStratvert](https://www.youtube.com/@KevinStratvert/videos) - Technology and programming education
 - [@Yuvalav](https://www.youtube.com/@yuv-ai/videos) - Yuval avidani   
 
-## 🌟 Hebrew specific
-- https://www.youtube.com/watch?v=hTGIuxUvStI - geekcode  
-- https://www.youtube.com/@MorNissim/videos - Mor 
+## 🌟GeekCode Academy 
+- [Session 1](https://www.youtube.com/watch?v=hTGIuxUvStI)
+- [Session 2](https://youtu.be/ck4TBCpUWRw?si=SzfeU-wcmW5UAJwk)
 
 ## 🚀 Links
 https://skills.sh/  
@@ -20,6 +20,6 @@ https://github.com/github/awesome-copilot?tab=readme-ov-file#-awesome-github-cop
 https://promptboost.dev/    
 
 
-## 📚 In middle 
-https://www.youtube.com/live/NrIc3ytJQU4
-
+## 📚 Various sessions 
+- https://www.youtube.com/live/NrIc3ytJQU4
+- https://www.youtube.com/@MorNissim/videos - Mor 
