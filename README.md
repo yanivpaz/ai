@@ -22,11 +22,16 @@
 - https://www.youtube.com/@MorNissim/videos - Mor 
 
 
-## 🚀 Skills 
+# 🚀 Skills 
 https://skills.sh/  
 https://www.aitmpl.com/skills
 
-## Links
+# Links
 https://github.com/github/awesome-copilot?tab=readme-ov-file#-awesome-github-copilot  
 https://promptboost.dev/    
+
+
+# Tools 
+Voice to text 
+https://github.com/cjpais/handy
 
