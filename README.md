@@ -1,10 +1,12 @@
 # 🎉 Videos
 
-## 📺 Recommended YouTube Channels
+## 📺 Recommended YouTube Channels Github 
 - [@code](https://www.youtube.com/@code/videos) - Code tutorials and programming content
 - [@GitHub](https://www.youtube.com/@GitHub/videos) - Official GitHub channel
 - [@BurkeHolland](https://www.youtube.com/@BurkeHolland) - Web development and coding tips
 - [@JamesMontemagno](https://www.youtube.com/@JamesMontemagno) - Mobile and cross-platform development
+
+## Recommended YouTube Channels General AI
 - [@KodeKloud](https://www.youtube.com/@KodeKloud/videos) - DevOps and cloud computing tutorials
 - [@Z-solutions-ai](https://www.youtube.com/@Z-solutions-ai/videos) - AI solutions and tutorials
 - [@KevinStratvert](https://www.youtube.com/@KevinStratvert/videos) - Technology and programming education
@@ -19,7 +21,6 @@
 - https://www.youtube.com/live/NrIc3ytJQU4
 - https://www.youtube.com/@MorNissim/videos - Mor 
 
-# Sites
 
 ## 🚀 Skills 
 https://skills.sh/  
