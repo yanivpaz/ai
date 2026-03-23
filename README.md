@@ -6,6 +6,7 @@
 - [@BurkeHolland](https://www.youtube.com/@BurkeHolland) - Web development and coding tips
 - [@JamesMontemagno](https://www.youtube.com/@JamesMontemagno) - Mobile and cross-platform development
 - https://github.com/github/awesome-copilot
+- https://github.com/microsoft/vscode-copilot-chat/blob/main/docs/monitoring/agent_monitoring.md  
 
 ## Recommended YouTube Channels General AI
 - [@KodeKloud](https://www.youtube.com/@KodeKloud/videos) - DevOps and cloud computing tutorials
@@ -29,17 +30,20 @@
 - https://www.youtube.com/@MorNissim/videos - Mor 
 
 
-# 🚀 Skills 
+## 🚀 Skills 
 - https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf
 - https://skills.sh/  
 - https://www.aitmpl.com/skills
 - https://agentskills.co.il/he/guides/getting-started
 - https://agentskills.co.il/he/skills?sort=newest
 
-# Links
+## Links
 https://github.com/github/awesome-copilot?tab=readme-ov-file#-awesome-github-copilot  
 https://promptboost.dev/    
+https://github.com/agent-sh/agentsys  
 
+## Google
+https://github.com/googleworkspace/cli
 
 # Tools 
 Voice to text 
