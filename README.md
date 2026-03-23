@@ -5,9 +5,7 @@
 - [@GitHub](https://www.youtube.com/@GitHub/videos) - Official GitHub channel
 - [@BurkeHolland](https://www.youtube.com/@BurkeHolland) - Web development and coding tips
 - [@JamesMontemagno](https://www.youtube.com/@JamesMontemagno) - Mobile and cross-platform development
-
-
-- 
+- https://github.com/github/awesome-copilot
 
 ## Recommended YouTube Channels General AI
 - [@KodeKloud](https://www.youtube.com/@KodeKloud/videos) - DevOps and cloud computing tutorials
