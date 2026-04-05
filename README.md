@@ -6,7 +6,11 @@
 - [@BurkeHolland](https://www.youtube.com/@BurkeHolland) - Web development and coding tips
 - [@JamesMontemagno](https://www.youtube.com/@JamesMontemagno) - Mobile and cross-platform development
 - https://github.com/github/awesome-copilot
-- https://github.com/microsoft/vscode-copilot-chat/blob/main/docs/monitoring/agent_monitoring.md  
+- https://github.com/microsoft/vscode-copilot-chat/blob/main/docs/monitoring/agent_monitoring.md
+
+## Copilot
+- https://github.com/github/copilot-cli-for-beginners
+- 
 
 ## Recommended YouTube Channels General AI
 - [@KodeKloud](https://www.youtube.com/@KodeKloud/videos) - DevOps and cloud computing tutorials
@@ -27,10 +31,12 @@
 
 ## 📚 Various sessions 
 - https://www.youtube.com/live/NrIc3ytJQU4
-- https://www.youtube.com/@MorNissim/videos - Mor 
+- https://www.youtube.com/@MorNissim/videos - Mor
+
 
 
 ## 🚀 Skills 
+- https://github.com/addyosmani/agent-skills
 - https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf
 - https://skills.sh/  
 - https://www.aitmpl.com/skills
@@ -41,6 +47,8 @@
 https://github.com/github/awesome-copilot?tab=readme-ov-file#-awesome-github-copilot  
 https://promptboost.dev/    
 https://github.com/agent-sh/agentsys  
+https://nvision.me/
+https://github.com/microsoft/apm
 
 ## Google
 https://github.com/googleworkspace/cli
