@@ -23,21 +23,19 @@ A curated list of YouTube channels focused on AI tools like Claude, GitHub Copil
 - [Code](https://www.youtube.com/@code) – Programming tutorials  
 - [GitHub](https://www.youtube.com/@GitHub) – Official GitHub channel
 
-- [KodeKloud](https://www.youtube.com/@KodeKloud) – DevOps & cloud tutorials  
-- [Machine Learning Street Talk](https://www.youtube.com/@MachineLearningStreetTalk) 
- 
----
-
 ## ⭐Hebrew
 - [Yuval Avidani](https://www.youtube.com/@Yuvalav)
 - [Ron Kedem](https://www.youtube.com/playlist?list=PLkpyF7rPk7jYekVQ1xRI8FbTau-N0qlgr) 
 - [Z Solutions AI](https://www.youtube.com/@Z-solutions-ai) – AI tutorials
 
 ## 🔬 Deep Understanding (AI Concepts)
-
 - [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers)  
 - [DeepLearningAI](https://www.youtube.com/@DeepLearningAI)  
-- [3Blue1Brown](https://www.youtube.com/@3blue1brown)  
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+- [Machine Learning Street Talk](https://www.youtube.com/@MachineLearningStreetTalk) 
 
+
+## KodeKloud
+- [KodeKloud](https://www.youtube.com/@KodeKloud) – DevOps & cloud tutorials  
 
 ---
