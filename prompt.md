@@ -12,3 +12,5 @@ This framework ensures your mind map prompts are focused, actionable, and aligne
 
 
 ## Refine 
+ask LLM to revistit the answer as another person 
+ask LLM to criticise 
