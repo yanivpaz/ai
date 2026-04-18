@@ -14,6 +14,9 @@ A curated list of YouTube channels focused on AI tools like Claude, GitHub Copil
 - [Kevin Stratvert](https://www.youtube.com/@KevinStratvert) – Tech & programming education  
 - [Cole Medin](https://www.youtube.com/@ColeMedin)  
 - [AI Jason](https://www.youtube.com/@AIJasonZ)
+- [Code with harry](https://www.youtube.com/@CodeWithHarry/videos)
+- [Nate Herk](https://www.youtube.com/channel/UC2ojq-nuP8ceeHqiroeKhBA)  
+- [TraversyMedia](https://www.youtube.com/@TraversyMedia/videos)    
 
 - [Code](https://www.youtube.com/@code) – Programming tutorials  
 
