@@ -11,6 +11,13 @@
 
 ---
 ## Specific skills
+# Skills 
+
+- https://github.com/forrestchang/andrej-karpathy-skills  
+- https://github.com/EveryInc/compound-engineering-plugin  
+- https://skills.sh/mattpocock/skills/write-a-prd  
+- https://impeccable.style/#visual-mode  
+- https://drive.google.com/drive/folders/1aBqvZm7HUzB7HU57944VNwH7PEwcYeW4
 - https://github.com/obra/superpowers
 - https://github.com/anthropics/claude-code/blob/main/plugins/frontend-design/skills/frontend-design/SKILL.md
 - https://github.com/anthropics/claude-code/tree/main/plugins/code-review  
