@@ -14,3 +14,11 @@ This framework ensures your mind map prompts are focused, actionable, and aligne
 ## Refine 
 ask LLM to revistit the answer as another person 
 ask LLM to criticise 
+
+
+## Chain of thoughts 
+in second  prompt :
+- ask to elaborate on one of the items
+
+in 3rd prompt :
+- ask to format the output 
