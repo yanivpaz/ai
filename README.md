@@ -11,9 +11,6 @@
 - https://www.youtube.com/playlist?list=PL-F5kYFVRcIvZQ_LEbdLIZrohgbf-Vock  
 - https://x.com/hasantoxr/status/2035312729427480840?s=48  
 
-## 🌟GeekCode Academy 
-- [Session 1](https://www.youtube.com/watch?v=hTGIuxUvStI)  
-- [Session 2](https://youtu.be/ck4TBCpUWRw?si=SzfeU-wcmW5UAJwk)  
 
 
 ## 📚 Various sessions 
