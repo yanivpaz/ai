@@ -8,13 +8,14 @@ A curated list of YouTube channels focused on AI tools like Claude, GitHub Copil
 - [Theo](https://www.youtube.com/@t3dotgg/videos)
 - [Matt Wolfe](https://www.youtube.com/@mreflow)
 - [Kevin Stratvert](https://www.youtube.com/@KevinStratvert) – Tech & programming education  
-- [matthew berman] - https://www.youtube.com/@matthew_berman/videos
+- [matthew berman](https://www.youtube.com/@matthew_berman/videos)
 - [Nick Saraev](https://www.youtube.com/channel/UCbo-KbSjJDG6JWQ_MTZ_rNA)
 - [Cole Medin](https://www.youtube.com/@ColeMedin)  
 - [AI Jason](https://www.youtube.com/@AIJasonZ)
 - [Code with harry](https://www.youtube.com/@CodeWithHarry/videos)
 - [Nate Herk](https://www.youtube.com/channel/UC2ojq-nuP8ceeHqiroeKhBA)  
-- [TraversyMedia](https://www.youtube.com/@TraversyMedia/videos)    
+- [TraversyMedia](https://www.youtube.com/@TraversyMedia/videos)
+- [Matt Pocock](https://www.youtube.com/@mattpocockuk/videos)  
 
 ## Microsoft / github
 - [Burke Holland](https://www.youtube.com/@BurkeHolland) – Web dev & coding tips  
