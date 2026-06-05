@@ -4,25 +4,26 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 
 - Source messages parsed: 8125
 - Link occurrences found: 628
-- Unique links: 555
+- Unique links: 556
 - Generated: 2026-06-05 15:50
 
 ## Table of Contents
 
-- [GitHub Copilot and GitHub AI](#github-copilot-and-github-ai) (65)
-- [GitHub Repositories and Code](#github-repositories-and-code) (23)
-- [MCP, Agents, and Protocols](#mcp-agents-and-protocols) (142)
-- [VS Code, Extensions, and Developer Tools](#vs-code-extensions-and-developer-tools) (16)
+- [GitHub Copilot and GitHub AI](#github-copilot-and-github-ai) (56)
+- [GitHub Repositories and Code](#github-repositories-and-code) (21)
+- [MCP, Agents, and Protocols](#mcp-agents-and-protocols) (139)
+- [VS Code, Extensions, and Developer Tools](#vs-code-extensions-and-developer-tools) (15)
 - [Microsoft, Azure, and Official Docs](#microsoft-azure-and-official-docs) (5)
 - [Learn](#learn) (11)
+- [Token Savings](#token-savings) (25)
 - [Videos, Demos, and Talks](#videos-demos-and-talks) (47)
 - [Research, Models, and Papers](#research-models-and-papers) (5)
 - [Packages, Platforms, and Services](#packages-platforms-and-services) (16)
 - [Events, Courses, and Community](#events-courses-and-community) (6)
 - [Shared Docs, Forms, and Scheduling](#shared-docs-forms-and-scheduling) (5)
 - [Articles, Blogs, and News](#articles-blogs-and-news) (22)
-- [Social Posts and Discussions](#social-posts-and-discussions) (184)
-- [Other Links](#other-links) (8)
+- [Social Posts and Discussions](#social-posts-and-discussions) (176)
+- [Other Links](#other-links) (7)
 - [Domain Summary](#domain-summary)
 
 ## GitHub Copilot and GitHub AI
@@ -78,9 +79,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **31.1.2026** | `github.com`
   [https://github.com/microsoft/vscode/issues/290583](https://github.com/microsoft/vscode/issues/290583)
   Context: https://github.com/microsoft/vscode/issues/290583 עוד פרטים בissue שבדק אותם
-- **3.2.2026** | `github.com`
-  [https://github.com/benarch/Github-Copilot-Usage-Insights](https://github.com/benarch/Github-Copilot-Usage-Insights)
-  Context: Happy to share a project I worked on over the last few days — built together with our friendly GitHub Copilot 🤖 This project started from a real customer need: getting better visibility into GitHub Copilot usage beyond...
 - **5.2.2026** | `github.com`
   [https://github.com/github/copilot-cli/issues/1306](https://github.com/github/copilot-cli/issues/1306)
   Context: בוקר אור חברים :) לא יודע אם גם אצלכם קורה, אבל לפעמים הטרמינל קורס לי ואז קשה לי לזהות את הסשן כי אין את הפקודה של איזה סשן לעשות אליו resume.. https://github.com/github/copilot-cli/issues/1306 מוזמנים לעשות Upvote לצומ...
@@ -108,12 +106,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **27.2.2026** | `github.com`
   [https://github.com/tamirdresher/cli-tunnel](https://github.com/tamirdresher/cli-tunnel)
   Context: Hi Everyone Ever wished you could work with k9s or the Coplilot CLI from your phone? 🤳 Well now you can!!! I built a tool that tunnels ANY CLI app to your browser — full terminal, real output, interactive. It uses a PTY...
-- **1.3.2026** | `docs.github.com`
-  [https://docs.github.com/en/enterprise-cloud@latest/rest/copilot/copilot-usage-metrics?apiVersion=2022-11-28#get-copilot-organization-usage-metrics-for-a-specific-day](https://docs.github.com/en/enterprise-cloud@latest/rest/copilot/copilot-usage-metrics?apiVersion=2022-11-28#get-copilot-organization-usage-metrics-for-a-specific-day)
-  Context: @⁨~Itay Angel⁩ - זה ה API ל user level. https://github.blog/changelog/2026-02-27-copilot-metrics-is-now-generally-available/ API- https://docs.github.com/en/enterprise-cloud@latest/rest/copilot/copilot-usage-metrics?apiV...
-- **1.3.2026** | `github.blog`
-  [https://github.blog/changelog/2026-02-27-copilot-metrics-is-now-generally-available/](https://github.blog/changelog/2026-02-27-copilot-metrics-is-now-generally-available/)
-  Context: @⁨~Itay Angel⁩ - זה ה API ל user level. https://github.blog/changelog/2026-02-27-copilot-metrics-is-now-generally-available/ API- https://docs.github.com/en/enterprise-cloud@latest/rest/copilot/copilot-usage-metrics?apiV...
 - **6.3.2026** | `github.com`
   [https://github.com/github/copilot-cli/issues/1857#issue-4030986822](https://github.com/github/copilot-cli/issues/1857#issue-4030986822)
   Context: https://github.com/github/copilot-cli/issues/1857#issue-4030986822 תעשו איזה לייק, זה נראה לי פיצ׳ר חשוב
@@ -153,9 +145,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **24.4.2026** | `github.com`
   [https://github.com/microsoft/vscode/issues/312316](https://github.com/microsoft/vscode/issues/312316)
   Context: ופתחתי להם issue להוסיף השלמה אוטומטית לשמות המודלים במקום לנחש או לפתוח את הdrop down https://github.com/microsoft/vscode/issues/312316 תצביעו אם זה נראה לכם מעניין
-- **27.4.2026** | `github.blog` | occurrences: 2
-  [https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/)
-  Context: אה, וגם זה!!!!! https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/
 - **27.4.2026** | `github.com`
   [https://github.com/microsoft/vscode/issues/309540](https://github.com/microsoft/vscode/issues/309540)
   Context: https://github.com/microsoft/vscode/issues/309540 Tracking issue ☝️ and it has a PR
@@ -183,21 +172,12 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **12.5.2026** | `github.blog`
   [https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan/](https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan/)
   Context: https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan/
-- **13.5.2026** | `github.com`
-  [https://github.com/YoavLax/Copiscope](https://github.com/YoavLax/Copiscope)
-  Context: מי שמעוניין קצת לנטר את השימוש האישי שלו בעקבות המעבר לשיטת תמחור החדשה כתבתי אפליקציית Mac שנותנת מטריקות שימוש אישיות בגיטהאב קופיילוט - sessions, tokens, cost, וגם קצת security insights (כמו זיהוי API keys). תומך ב-VS...
-- **13.5.2026** | `copilot-billing-preview.github.com` | occurrences: 2
-  [https://copilot-billing-preview.github.com/](https://copilot-billing-preview.github.com/)
-  Context: https://copilot-billing-preview.github.com/
 - **18.5.2026** | `github.com`
   [https://github.com/microsoft/playwright-cli](https://github.com/microsoft/playwright-cli)
   Context: או npx skills add https://github.com/microsoft/playwright-cli --skill playwright-cli
 - **20.5.2026** | `github.blog`
   [https://github.blog/changelog/2026-05-20-auto-model-selection-now-routes-based-on-your-task-in-vs-code/](https://github.blog/changelog/2026-05-20-auto-model-selection-now-routes-based-on-your-task-in-vs-code/)
   Context: https://github.blog/changelog/2026-05-20-auto-model-selection-now-routes-based-on-your-task-in-vs-code/
-- **20.5.2026** | `github.com`
-  [https://github.com/YoavLax/Copilot-Management-Platform](https://github.com/YoavLax/Copilot-Management-Platform)
-  Context: היי חברים, בעקבות השינוי בשיטת התמחור של קופיילוט ובמטרה להקל על ניהול הUser busgets בניתי פלטפורמת ניהול ל‑Copilot שמאפשרת לראות שימוש, התפלגות שימוש במודלים פר יוזר, ולנהל תקציבים גם ברמת GitHub Teams. מאפשר לנו לתת למ...
 - **21.5.2026** | `github.com`
   [https://github.com/microsoft/vscode/pull/317428](https://github.com/microsoft/vscode/pull/317428)
   Context: https://github.com/microsoft/vscode/pull/317428 מדהים! פתחו את האפשרות להשתמש עם קופיילוט גם בסביבה סגורה (יחליף את cline, continue, kilocode ...)
@@ -216,12 +196,7 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **2.6.2026** | `github.blog`
   [https://github.blog/changelog/2026-06-02-shape-copilot-code-review-around-your-team/](https://github.blog/changelog/2026-06-02-shape-copilot-code-review-around-your-team/)
   Context: https://github.blog/changelog/2026-06-02-shape-copilot-code-review-around-your-team/
-- **4.6.2026** | `docs.github.com`
-  [https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing](https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing)
-  Context: https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing לפי המודל
-- **4.6.2026** | `github.com`
-  [https://github.com/abhi-singhs/copilot-token-meter](https://github.com/abhi-singhs/copilot-token-meter)
-  Context: https://github.com/abhi-singhs/copilot-token-meter
+
 
 ## GitHub Repositories and Code
 
@@ -270,9 +245,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **27.3.2026** | `github.com`
   [https://github.com/shep-ai/cli](https://github.com/shep-ai/cli)
   Context: בוקר טוב וכמעט שבת שלום כבר כמה חודשים טובים שאני שקוע במחקר על איך לייעל ולטייב את ה-SDLC שלי ושל הקולגות שלי. בתור מי שתמיד שם דגש על תהליך פיתוח מוסדר - מהבנת דרישות המוצר, דרך אפיון טכני מעמיק ועד לשחרור - הרגשתי שה-...
-- **14.4.2026** | `github.com`
-  [https://github.com/enterprises/{enterprise](https://github.com/enterprises/{enterprise)
-  Context: under https://github.com/enterprises/{enterprise}/billing/premium_requests_usage
 - **16.4.2026** | `github.com`
   [https://github.com/tupe12334/israel-tax-refund/blob/main/README.he.md](https://github.com/tupe12334/israel-tax-refund/blob/main/README.he.md)
   Context: https://github.com/tupe12334/israel-tax-refund/blob/main/README.he.md אשמח לשמוע מה אתם חושבים 😊
@@ -288,12 +260,11 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **23.4.2026** | `github.com`
   [https://github.com/microsoft/openclaw](https://github.com/microsoft/openclaw)
   Context: https://github.com/microsoft/openclaw
-- **29.4.2026** | `github.com`
-  [https://github.com/alexgreensh/token-optimizer](https://github.com/alexgreensh/token-optimizer)
-  Context: יש פלאגין פגז שעובד בקלוד... אפשר לבקש גם שיוסיפו תמיכה לקופיילט. מישהי ישראלית: https://github.com/alexgreensh/token-optimizer
 - **29.4.2026** | `github.com` | occurrences: 2
   [https://github.com/robotaitai/project-bedrock](https://github.com/robotaitai/project-bedrock)
   Context: בוקר טוב חברים אשמח תוכלו להקדיש שניה ולשים לי ⭐️ כוכב על הפרוייקט https://github.com/robotaitai/project-bedrock כמובן שאתם מוזמנים גם להתחיל להשתמש ולתת לסוכנים שלכם להתחיל להתנהל כמו צוות פיתוח (דוקומנטציה, ארכיטקטורות...
+
+
 
 ## MCP, Agents, and Protocols
 
@@ -453,9 +424,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **16.1.2026** | `linkedin.com`
   [https://www.linkedin.com/posts/github_building-an-agentic-memory-system-for-github-activity-7417695372556562432-hIa_?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/github_building-an-agentic-memory-system-for-github-activity-7417695372556562432-hIa_?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
   Context: פיצ׳ר הממוריז הקודינג אייג׳נט בענן סופסוף נגיש לכולם https://www.linkedin.com/posts/github_building-an-agentic-memory-system-for-github-activity-7417695372556562432-hIa_?utm_source=share&utm_medium=member_ios&rcm=ACoAAAG...
-- **18.1.2026** | `linkedin.com`
-  [https://www.linkedin.com/posts/leon-melamud_modular-agent-strategy-agentskillsmcp-activity-7418639719342731264-tl4H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1J5LgBWeMj_PkCLgBH8oE6M-fWRWK0krk](https://www.linkedin.com/posts/leon-melamud_modular-agent-strategy-agentskillsmcp-activity-7418639719342731264-tl4H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1J5LgBWeMj_PkCLgBH8oE6M-fWRWK0krk)
-  Context: הסבר על Skills+MCP והחסכון בטוקנים ואיך זה חוסך https://www.linkedin.com/posts/leon-melamud_modular-agent-strategy-agentskillsmcp-activity-7418639719342731264-tl4H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1J5...
 - **22.1.2026** | `github.blog`
   [https://github.blog/changelog/2026-01-14-copilot-sdk-in-technical-preview/](https://github.blog/changelog/2026-01-14-copilot-sdk-in-technical-preview/)
   Context: לא ניסיתי אבל זה פותח מלא יכולות חדשות שאפשר רק להתחיל לדמיין מה אפשר לעשות כל אחד לפי השימושים שלו... Integrate your app with agent capabilities - copilot SDK https://github.blog/changelog/2026-01-14-copilot-sdk-in-tech...
@@ -687,16 +655,12 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **19.4.2026** | `youtube.com`
   [https://www.youtube.com/watch?v=fdbXNWkpPMY&t=239s](https://www.youtube.com/watch?v=fdbXNWkpPMY&t=239s)
   Context: 100% recommend watching: https://www.youtube.com/watch?v=fdbXNWkpPMY&t=239s ⚡ TL;DR for the group- * Output as HTML, not markdown / terminal text — richer, skimmable, better for evaluation * Define evaluation criteria BE...
-
 - **19.4.2026** | `microsoft.github.io`
   [https://microsoft.github.io/apm/](https://microsoft.github.io/apm/)
   Context: https://microsoft.github.io/apm/
 - **24.4.2026** | `linkedin.com`
   [https://www.linkedin.com/posts/orenmelamed_i-need-to-try-more-ai-surfaces-so-im-using-ugcPost-7453385905228259328-9QYI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_i-need-to-try-more-ai-surfaces-so-im-using-ugcPost-7453385905228259328-9QYI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
   Context: עוד פיצ׳ר חדש ושעושה המון סדר באפליקציית agents החדשה יש קונספט של sub sessions אפשר לרכז את כל השיחות שעושים בנושא מסויים או פיצ׳ר בקונטיינר אחד https://www.linkedin.com/posts/orenmelamed_i-need-to-try-more-ai-surfaces-...
-- **28.4.2026** | `docs.github.com`
-  [https://docs.github.com/en/copilot/concepts/billing/usage-based-billing-for-organizations-and-enterprises](https://docs.github.com/en/copilot/concepts/billing/usage-based-billing-for-organizations-and-enterprises)
-  Context: *🚨 קופיילוט עובר לחיוב לפי שימוש: החל מ-1 ביוני 2026* מה בדיוק משתנה? במקום premium request units, כל פלאן עובר ל-GitHub AI Credits, המחושבים לפי צריכת טוקנים בפועל: input, output ו-cached tokens, לפי תעריפי ה-API של כל...
 - **29.4.2026** | `warp.dev`
   [https://www.warp.dev/blog/warp-is-now-open-source](https://www.warp.dev/blog/warp-is-now-open-source)
   Context: Great story. Warp has shifted its core business value from being a proprietary terminal to becoming an Agentic Development Environment powered by Oz. Wrap offered terminal coding agent, like Claude code and cursor CLI. T...
@@ -706,9 +670,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **5.5.2026** | `microsoft.github.io`
   [https://microsoft.github.io/apm/guides/plugins/#how-apm-handles-plugins](https://microsoft.github.io/apm/guides/plugins/#how-apm-handles-plugins)
   Context: https://microsoft.github.io/apm/guides/plugins/#how-apm-handles-plugins
-- **17.5.2026** | `linkedin.com`
-  [https://www.linkedin.com/posts/orenmelamed_agentic-coding-price-cost-rise-is-bumming-activity-7461645434365739008-nvPi?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_agentic-coding-price-cost-rise-is-bumming-activity-7461645434365739008-nvPi?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
-  Context: אני מתעסק בזה גם ויש לזה רבדים לכל דבר צריך קונטקסט וצריך גם את הנכון למשימה הנכונה בקישור למה שכתבתי היום - ברמה מאוד נמוכה צריך להבין איך האייג׳נטים מתנהגים עם הקונטקסט ועם הפרימיטיביים, בעיקר שזה עולה לנו יותר ויותר כ...
 - **18.5.2026** | `code.visualstudio.com`
   [https://code.visualstudio.com/blogs/2026/05/15/agent-harnesses-github-copilot-vscode](https://code.visualstudio.com/blogs/2026/05/15/agent-harnesses-github-copilot-vscode)
   Context: (לפנות) בוקר טוב לכולנו. הסבר על הHarness של Github Copilot, ועל איך זה עובד עם המודלים. למי שלא מכיר. מסביר יופי. https://code.visualstudio.com/blogs/2026/05/15/agent-harnesses-github-copilot-vscode
@@ -724,6 +685,8 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **5.6.2026** | `learn.microsoft.com`
   [https://learn.microsoft.com/en-us/azure/devops/repos/git/copilot-code-reviews?view=azure-devops](https://learn.microsoft.com/en-us/azure/devops/repos/git/copilot-code-reviews?view=azure-devops)
   Context: לחובבי ADO יש עכשיו code review ל-PRs והקוד ריוויו עבר מודרניזציה ותומך בסקילים ובMCPs https://github.blog/changelog/2026-06-02-shape-copilot-code-review-around-your-team https://learn.microsoft.com/en-us/azure/devops/re...
+
+
 
 ## VS Code, Extensions, and Developer Tools
 
@@ -764,18 +727,16 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
   [https://code.visualstudio.com/updates/v1_119](https://code.visualstudio.com/updates/v1_119)
   Context: https://code.visualstudio.com/updates/v1_119 סחטיין אורן (למי שלא עובד עם הINSIDERS \ NIGHTLY) התמונה הושמטה
 - **12.5.2026** | `marketplace.visualstudio.com`
-  [https://marketplace.visualstudio.com/items?itemName=netcomlabs-ai.copilot-cost-token-tracker&ssr=false#overview](https://marketplace.visualstudio.com/items?itemName=netcomlabs-ai.copilot-cost-token-tracker&ssr=false#overview)
-  Context: אני וקולגה פיתחנו תוסף חדש ל־Visual Studio Code: Copilot Cost & Token Tracker מציג כמה ה־Copilot באמת עולה לכם 💰 כולל שימוש בטוקנים, עלויות לפי סשנים ועוד אשמח שתנסו ותתנו פידבק. https://marketplace.visualstudio.com/ite...
-- **12.5.2026** | `marketplace.visualstudio.com`
   [https://marketplace.visualstudio.com/items?itemName=RobBos.AIEngineeringFluency](https://marketplace.visualstudio.com/items?itemName=RobBos.AIEngineeringFluency)
   Context: מעניין האם מכירים את זה? האם יש משהו שהוא מוסיף על היכולות שלו? https://marketplace.visualstudio.com/items?itemName=RobBos.AIEngineeringFluency
-
 - **20.5.2026** | `code.visualstudio.com`
   [https://code.visualstudio.com/updates/v1_121#_configure-utility-models](https://code.visualstudio.com/updates/v1_121#_configure-utility-models)
   Context: ובתזמון נהדר, גירסא חדשה לvscode מה קיבלנו? החלון אייג׳נטס הוא כבר בסטייבל יש כלים בילט אין לצימצום צריכת טוקנים בטרמינל(כמו rtk) יש בילט אין מרמייד עם תמיכה גם ברינדור של פרונטמאטר(הם הכניסו את זה בגללי 😁) ועוד טופינים...
 - **27.5.2026** | `code.visualstudio.com`
   [https://code.visualstudio.com/docs/copilot/overview](https://code.visualstudio.com/docs/copilot/overview)
   Context: תתחילי כאן https://code.visualstudio.com/docs/copilot/overview
+
+
 
 ## Microsoft, Azure, and Official Docs
 
@@ -794,6 +755,8 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **20.4.2026** | `teams.microsoft.com`
   [https://teams.microsoft.com/l/meetup-join/19%3Ameeting_Mzg4NmJjMWMtYzkxYi00MzZlLWJkYjItMTg4YzJiYWFmMGFh%40thread.v2/0?context=%7B%22Tid%22%3A%22e0aca55d-91e8-4d83-9c6a-c8620e689339%22%2C%22Oid%22%3A%2257efab86-7b94-4284-8d6b-de01d968a794%22%2C%22IsBroadcastMeeting%22%3Atrue%2C%22role%22%3A%22a%22%7D&btype=a&role=a](https://teams.microsoft.com/l/meetup-join/19%3Ameeting_Mzg4NmJjMWMtYzkxYi00MzZlLWJkYjItMTg4YzJiYWFmMGFh%40thread.v2/0?context=%7B%22Tid%22%3A%22e0aca55d-91e8-4d83-9c6a-c8620e689339%22%2C%22Oid%22%3A%2257efab86-7b94-4284-8d6b-de01d968a794%22%2C%22IsBroadcastMeeting%22%3Atrue%2C%22role%22%3A%22a%22%7D&btype=a&role=a)
   Context: https://teams.microsoft.com/l/meetup-join/19%3Ameeting_Mzg4NmJjMWMtYzkxYi00MzZlLWJkYjItMTg4YzJiYWFmMGFh%40thread.v2/0?context=%7B%22Tid%22%3A%22e0aca55d-91e8-4d83-9c6a-c8620e689339%22%2C%22Oid%22%3A%2257efab86-7b94-4284-...
+
+
 
 ## Learn
 
@@ -818,7 +781,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **19.4.2026** | `u-btech.com`
   [https://www.u-btech.com/github-copilot-cli-20-4-26/](https://www.u-btech.com/github-copilot-cli-20-4-26/)
   Context: From idea to working code, in one hour! 🚀 Join us for a one time, technical webinar where we’ll explore the latest innovations and updates in *GitHub Copilot CLI*, and build a full end to end app *live* in an interactiv...
-
 - **21.4.2026** | `frontendmasters.com`
   [https://frontendmasters.com/workshops/advanced-claude-code/](https://frontendmasters.com/workshops/advanced-claude-code/)
   Context: https://frontendmasters.com/workshops/advanced-claude-code/ יש את זה היום אחהצ למי שמעוניין (קלוד קוד)
@@ -828,9 +790,90 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **7.5.2026** | `github.registration.goldcast.io`
   [https://github.registration.goldcast.io/webinar/9c23608e-dc81-41f3-82c2-6629c9a26f36](https://github.registration.goldcast.io/webinar/9c23608e-dc81-41f3-82c2-6629c9a26f36)
   Context: https://github.registration.goldcast.io/webinar/9c23608e-dc81-41f3-82c2-6629c9a26f36
+
+- **5.6.2026** | `github.com`
+  [https://github.com/nirgeier/GithubCopilotLabs](https://github.com/nirgeier/GithubCopilotLabs)
+  Context: GitHub Copilot Labs learning repo: https://github.com/nirgeier/GithubCopilotLabs
+
+## Token Savings
+
+- **30.12.2025** | `linkedin.com`
+  [https://www.linkedin.com/posts/orenmelamed_%D7%9C%D7%A9%D7%9E%D7%95%D7%A8-%D7%A2%D7%9C-%D7%94-context-window-%D7%A9%D7%9C-%D7%9E%D7%95%D7%93%D7%9C-%D7%AA%D7%97%D7%AA-%D7%A9%D7%9C%D7%99%D7%98%D7%94-activity-7411854175434665984-7ZLe?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_%D7%9C%D7%A9%D7%9E%D7%95%D7%A8-%D7%A2%D7%9C-%D7%94-context-window-%D7%A9%D7%9C-%D7%9E%D7%95%D7%93%D7%9C-%D7%AA%D7%97%D7%AA-%D7%A9%D7%9C%D7%99%D7%98%D7%94-activity-7411854175434665984-7ZLe?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
+  Context: הגיגים על ניהול קונטקסט ולמה זה בול כמו לשמור על קובץ תחת תקציב של שורות או PR קצר וממוקד ובונוס טיפים בסוף https://www.linkedin.com/posts/orenmelamed_%D7%9C%D7%A9%D7%9E%D7%95%D7%A8-%D7%A2%D7%9C-%D7%94-context-window-%D7...
+- **18.1.2026** | `linkedin.com`
+  [https://www.linkedin.com/posts/leon-melamud_modular-agent-strategy-agentskillsmcp-activity-7418639719342731264-tl4H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1J5LgBWeMj_PkCLgBH8oE6M-fWRWK0krk](https://www.linkedin.com/posts/leon-melamud_modular-agent-strategy-agentskillsmcp-activity-7418639719342731264-tl4H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1J5LgBWeMj_PkCLgBH8oE6M-fWRWK0krk)
+  Context: הסבר על Skills+MCP והחסכון בטוקנים ואיך זה חוסך https://www.linkedin.com/posts/leon-melamud_modular-agent-strategy-agentskillsmcp-activity-7418639719342731264-tl4H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1J5...
+- **3.2.2026** | `github.com`
+  [https://github.com/benarch/Github-Copilot-Usage-Insights](https://github.com/benarch/Github-Copilot-Usage-Insights)
+  Context: Happy to share a project I worked on over the last few days — built together with our friendly GitHub Copilot 🤖 This project started from a real customer need: getting better visibility into GitHub Copilot usage beyond...
+- **1.3.2026** | `docs.github.com`
+  [https://docs.github.com/en/enterprise-cloud@latest/rest/copilot/copilot-usage-metrics?apiVersion=2022-11-28#get-copilot-organization-usage-metrics-for-a-specific-day](https://docs.github.com/en/enterprise-cloud@latest/rest/copilot/copilot-usage-metrics?apiVersion=2022-11-28#get-copilot-organization-usage-metrics-for-a-specific-day)
+  Context: @⁨~Itay Angel⁩ - זה ה API ל user level. https://github.blog/changelog/2026-02-27-copilot-metrics-is-now-generally-available/ API- https://docs.github.com/en/enterprise-cloud@latest/rest/copilot/copilot-usage-metrics?apiV...
+- **1.3.2026** | `github.blog`
+  [https://github.blog/changelog/2026-02-27-copilot-metrics-is-now-generally-available/](https://github.blog/changelog/2026-02-27-copilot-metrics-is-now-generally-available/)
+  Context: @⁨~Itay Angel⁩ - זה ה API ל user level. https://github.blog/changelog/2026-02-27-copilot-metrics-is-now-generally-available/ API- https://docs.github.com/en/enterprise-cloud@latest/rest/copilot/copilot-usage-metrics?apiV...
+- **10.4.2026** | `linkedin.com`
+  [https://www.linkedin.com/posts/idanshnitzki_token-consumption-matters-at-scale-and-activity-7448314313179779074-VQe_?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAABL2EU4BhZ1lzDd35pqtw38a8e0SYUFrD2s&utm_campaign=copy_link](https://www.linkedin.com/posts/idanshnitzki_token-consumption-matters-at-scale-and-activity-7448314313179779074-VQe_?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAABL2EU4BhZ1lzDd35pqtw38a8e0SYUFrD2s&utm_campaign=copy_link)
+  Context: https://www.linkedin.com/posts/idanshnitzki_token-consumption-matters-at-scale-and-activity-7448314313179779074-VQe_?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAABL2EU4BhZ1lzDd35pqtw38a8e0SYUFrD2s&utm_cam...
+- **14.4.2026** | `github.com`
+  [https://github.com/enterprises/{enterprise](https://github.com/enterprises/{enterprise)
+  Context: under https://github.com/enterprises/{enterprise}/billing/premium_requests_usage
+- **27.4.2026** | `github.blog` | occurrences: 2
+  [https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/)
+  Context: אה, וגם זה!!!!! https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/
+- **28.4.2026** | `docs.github.com`
+  [https://docs.github.com/en/copilot/concepts/billing/usage-based-billing-for-organizations-and-enterprises](https://docs.github.com/en/copilot/concepts/billing/usage-based-billing-for-organizations-and-enterprises)
+  Context: *🚨 קופיילוט עובר לחיוב לפי שימוש: החל מ-1 ביוני 2026* מה בדיוק משתנה? במקום premium request units, כל פלאן עובר ל-GitHub AI Credits, המחושבים לפי צריכת טוקנים בפועל: input, output ו-cached tokens, לפי תעריפי ה-API של כל...
+- **28.4.2026** | `linkedin.com`
+  [https://www.linkedin.com/posts/orenmelamed_more-clarity-on-githubcopilot-billing-change-share-7454797284774522880-cvpA?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_more-clarity-on-githubcopilot-billing-change-share-7454797284774522880-cvpA?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
+  Context: https://www.linkedin.com/posts/orenmelamed_more-clarity-on-githubcopilot-billing-change-share-7454797284774522880-cvpA?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE
+- **29.4.2026** | `github.com`
+  [https://github.com/alexgreensh/token-optimizer](https://github.com/alexgreensh/token-optimizer)
+  Context: יש פלאגין פגז שעובד בקלוד... אפשר לבקש גם שיוסיפו תמיכה לקופיילט. מישהי ישראלית: https://github.com/alexgreensh/token-optimizer
+- **2.5.2026** | `linkedin.com`
+  [https://www.linkedin.com/posts/orenmelamed_new-token-controls-dropping-in-visual-studio-activity-7456265214250921984-mTNg?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_new-token-controls-dropping-in-visual-studio-activity-7456265214250921984-mTNg?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
+  Context: https://www.linkedin.com/posts/orenmelamed_new-token-controls-dropping-in-visual-studio-activity-7456265214250921984-mTNg?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE
+- **12.5.2026** | `marketplace.visualstudio.com`
+  [https://marketplace.visualstudio.com/items?itemName=netcomlabs-ai.copilot-cost-token-tracker&ssr=false#overview](https://marketplace.visualstudio.com/items?itemName=netcomlabs-ai.copilot-cost-token-tracker&ssr=false#overview)
+  Context: אני וקולגה פיתחנו תוסף חדש ל־Visual Studio Code: Copilot Cost & Token Tracker מציג כמה ה־Copilot באמת עולה לכם 💰 כולל שימוש בטוקנים, עלויות לפי סשנים ועוד אשמח שתנסו ותתנו פידבק. https://marketplace.visualstudio.com/ite...
+- **12.5.2026** | `linkedin.com`
+  [https://www.linkedin.com/posts/orenmelamed_thats-gonna-be-a-fun-one-github-just-released-activity-7460046113660760064-8ija?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_thats-gonna-be-a-fun-one-github-just-released-activity-7460046113660760064-8ija?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
+  Context: ודו״ח השימוש החודשי עם הערכה של תשלום למעבר לטוקנים בדיוק יצא שלחו לCFO שלכם https://www.linkedin.com/posts/orenmelamed_thats-gonna-be-a-fun-one-github-just-released-activity-7460046113660760064-8ija?utm_source=share&utm...
+- **13.5.2026** | `github.com`
+  [https://github.com/YoavLax/Copiscope](https://github.com/YoavLax/Copiscope)
+  Context: מי שמעוניין קצת לנטר את השימוש האישי שלו בעקבות המעבר לשיטת תמחור החדשה כתבתי אפליקציית Mac שנותנת מטריקות שימוש אישיות בגיטהאב קופיילוט - sessions, tokens, cost, וגם קצת security insights (כמו זיהוי API keys). תומך ב-VS...
+- **13.5.2026** | `copilot-billing-preview.github.com` | occurrences: 2
+  [https://copilot-billing-preview.github.com/](https://copilot-billing-preview.github.com/)
+  Context: https://copilot-billing-preview.github.com/
+- **17.5.2026** | `linkedin.com`
+  [https://www.linkedin.com/posts/orenmelamed_agentic-coding-price-cost-rise-is-bumming-activity-7461645434365739008-nvPi?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_agentic-coding-price-cost-rise-is-bumming-activity-7461645434365739008-nvPi?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
+  Context: אני מתעסק בזה גם ויש לזה רבדים לכל דבר צריך קונטקסט וצריך גם את הנכון למשימה הנכונה בקישור למה שכתבתי היום - ברמה מאוד נמוכה צריך להבין איך האייג׳נטים מתנהגים עם הקונטקסט ועם הפרימיטיביים, בעיקר שזה עולה לנו יותר ויותר כ...
+- **20.5.2026** | `github.com`
+  [https://github.com/YoavLax/Copilot-Management-Platform](https://github.com/YoavLax/Copilot-Management-Platform)
+  Context: היי חברים, בעקבות השינוי בשיטת התמחור של קופיילוט ובמטרה להקל על ניהול הUser busgets בניתי פלטפורמת ניהול ל‑Copilot שמאפשרת לראות שימוש, התפלגות שימוש במודלים פר יוזר, ולנהל תקציבים גם ברמת GitHub Teams. מאפשר לנו לתת למ...
+- **24.5.2026** | `linkedin.com`
+  [https://www.linkedin.com/posts/orenmelamed_if-you-want-your-i-know-how-to-use-ai-coding-share-7464358145201598464-w0sP/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_if-you-want-your-i-know-how-to-use-ai-coding-share-7464358145201598464-w0sP/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
+  Context: תוספת נחמדה באינסיידרס שמאפשרת לקבל ניתוח מעמיק של ביזבוז טוקנים והצעות לשיפור זה סורק remote קודם ואז לוקאלי כי הרימוט מכיל יותר מידע אבל הרוב עדין אין להם רימוט אבל עדין זה מצוין זה קטל אותי בריוויו, אז אם הייתי משתף פ...
 - **25.5.2026** | `github.ondemand.goldcast.io` | occurrences: 2
   [https://github.ondemand.goldcast.io/on-demand/06123d21-1ed9-4fac-b319-2e9a36b33bbd](https://github.ondemand.goldcast.io/on-demand/06123d21-1ed9-4fac-b319-2e9a36b33bbd)
   Context: סשן של גיטהאב על חסכון בטוקנים. https://github.ondemand.goldcast.io/on-demand/06123d21-1ed9-4fac-b319-2e9a36b33bbd
+- **1.6.2026** | `linkedin.com`
+  [https://www.linkedin.com/posts/leon-melamud_adlc-cost-efficiency-ugcPost-7467094938850197504-4Dwn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1J5LgBWeMj_PkCLgBH8oE6M-fWRWK0krk](https://www.linkedin.com/posts/leon-melamud_adlc-cost-efficiency-ugcPost-7467094938850197504-4Dwn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1J5LgBWeMj_PkCLgBH8oE6M-fWRWK0krk)
+  Context: מוסיף עוד כמה טיפים לחסכון טוקנים לאחר הגזרות הכלכליות מצד קופיילוט וקלוד מהיום https://www.linkedin.com/posts/leon-melamud_adlc-cost-efficiency-ugcPost-7467094938850197504-4Dwn/?utm_source=share&utm_medium=member_deskto...
+- **1.6.2026** | `linkedin.com`
+  [https://www.linkedin.com/pulse/github-copilot-token-tax-here-you-ready-ubb-oren-melamed-7zwhf/](https://www.linkedin.com/pulse/github-copilot-token-tax-here-you-ready-ubb-oren-melamed-7zwhf/)
+  Context: https://www.linkedin.com/pulse/github-copilot-token-tax-here-you-ready-ubb-oren-melamed-7zwhf/
+- **1.6.2026** | `share.articulate.com` | occurrences: 2
+  [https://share.articulate.com/pmpueguUReJvPTq-7f_aY#/lessons/OGJRPBujjCiFDnCdRGCUJW3kXqt6tBsa](https://share.articulate.com/pmpueguUReJvPTq-7f_aY#/lessons/OGJRPBujjCiFDnCdRGCUJW3kXqt6tBsa)
+  Context: its pool model - https://share.articulate.com/pmpueguUReJvPTq-7f_aY#/lessons/OGJRPBujjCiFDnCdRGCUJW3kXqt6tBsa . this is way you should have budget per user
+- **4.6.2026** | `docs.github.com`
+  [https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing](https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing)
+  Context: https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing לפי המודל
+- **4.6.2026** | `github.com`
+  [https://github.com/abhi-singhs/copilot-token-meter](https://github.com/abhi-singhs/copilot-token-meter)
+  Context: https://github.com/abhi-singhs/copilot-token-meter
+
+
 
 ## Videos, Demos, and Talks
 
@@ -976,6 +1019,8 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
   [https://www.youtube.com/watch?v=JsZ3q8OKsMM](https://www.youtube.com/watch?v=JsZ3q8OKsMM)
   Context: did you try otel ? https://www.youtube.com/watch?v=JsZ3q8OKsMM
 
+
+
 ## Research, Models, and Papers
 
 - **11.12.2025** | `arcprize.org`
@@ -993,6 +1038,8 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **20.4.2026** | `arxiv.org`
   [https://arxiv.org/pdf/2601.10112](https://arxiv.org/pdf/2601.10112)
   Context: מציע לבדוק שימוש ב-RIG. זה תהליך שמאנדקס לך את כל הריפו בצורה מאוד קומפקטית. אם יש לך כוח לקרוא, הנה מאמר של חוקרים מאוניברסיטת תל-אביב שמסביר https://arxiv.org/pdf/2601.10112 סיכום קצר שלו: 1. המאמר מציג את Repository I...
+
+
 
 ## Packages, Platforms, and Services
 
@@ -1014,7 +1061,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **27.2.2026** | `npmjs.com`
   [https://npmjs.com/package/cli-tunnel](https://npmjs.com/package/cli-tunnel)
   Context: Hi Everyone Ever wished you could work with k9s or the Coplilot CLI from your phone? 🤳 Well now you can!!! I built a tool that tunnels ANY CLI app to your browser — full terminal, real output, interactive. It uses a PTY...
-
 - **1.3.2026** | `plannotator.ai`
   [https://plannotator.ai/](https://plannotator.ai/)
   Context: ממליץ להסתכל על https://plannotator.ai/ למי שעושה plan לפני, ממש נוח
@@ -1046,6 +1092,8 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
   [https://chunkhound.github.io/](https://chunkhound.github.io/)
   Context: מה לגבי chunkhound? https://chunkhound.github.io/
 
+
+
 ## Events, Courses, and Community
 
 - **2.12.2025** | `llm.org.il` | occurrences: 3
@@ -1067,6 +1115,8 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
   [https://info.varonis.com/en/techsync-varonis-meetup-ai-impact-2026-03-11](https://info.varonis.com/en/techsync-varonis-meetup-ai-impact-2026-03-11)
   Context: למי שאמר תודה ל @⁨~Yoav⁩ , הוא עכשיו עושה מיטאפ - ממליץ https://info.varonis.com/en/techsync-varonis-meetup-ai-impact-2026-03-11
 
+
+
 ## Shared Docs, Forms, and Scheduling
 
 - **10.1.2026** | `share.google`
@@ -1084,6 +1134,8 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **5.3.2026** | `share.google`
   [https://share.google/7F1mfDchhgdxvu3PK](https://share.google/7F1mfDchhgdxvu3PK)
   Context: Copilot metrics now includes plan mode - GitHub Changelog https://share.google/7F1mfDchhgdxvu3PK
+
+
 
 ## Articles, Blogs, and News
 
@@ -1111,7 +1163,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **27.2.2026** | `tamirdresher.com`
   [https://www.tamirdresher.com/blog/2026/02/26/squad-remote-control](https://www.tamirdresher.com/blog/2026/02/26/squad-remote-control)
   Context: Hi Everyone Ever wished you could work with k9s or the Coplilot CLI from your phone? 🤳 Well now you can!!! I built a tool that tunnels ANY CLI app to your browser — full terminal, real output, interactive. It uses a PTY...
-
 - **3.3.2026** | `itnews.com.au`
   [https://www.itnews.com.au/news/westpac-sees-46-percent-productivity-gain-from-ai-coding-experiment-596423](https://www.itnews.com.au/news/westpac-sees-46-percent-productivity-gain-from-ai-coding-experiment-596423)
   Context: בנק ווסטפק באוסטרליה, כ 7000 מפתחים (אלוהים יודע מה הם עושים עם כל כך הרבה בפיתוח) - כבר שלוש שנים על הדרך הזו עם מאמרים כמו זה מלפני 3 שנים https://www.itnews.com.au/news/westpac-sees-46-percent-productivity-gain-from-a...
@@ -1154,6 +1205,8 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **2.6.2026** | `microsoft.ai`
   [https://microsoft.ai/news/introducingmai-code-1-flash/](https://microsoft.ai/news/introducingmai-code-1-flash/)
   Context: https://microsoft.ai/news/introducingmai-code-1-flash/
+
+
 
 ## Social Posts and Discussions
 
@@ -1211,9 +1264,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **28.12.2025** | `linkedin.com`
   [https://www.linkedin.com/posts/orenmelamed_%D7%94%D7%97%D7%91%D7%A8%D7%94-%D7%A9%D7%9C-vscode-%D7%94%D7%A8%D7%92%D7%A2-%D7%A9%D7%99%D7%A0%D7%95-%D7%90%D7%AA-%D7%97%D7%95%D7%A7%D7%99-%D7%94%D7%9E%D7%A9%D7%97%D7%A7-%D7%A2%D7%9D-activity-7345081135632109568-FjAE?utm_source=share&utm_medium=member_desktop&rcm=ACoAACuZr-YBKQOjAyJhTu2UWTpznYdb26N-RKY](https://www.linkedin.com/posts/orenmelamed_%D7%94%D7%97%D7%91%D7%A8%D7%94-%D7%A9%D7%9C-vscode-%D7%94%D7%A8%D7%92%D7%A2-%D7%A9%D7%99%D7%A0%D7%95-%D7%90%D7%AA-%D7%97%D7%95%D7%A7%D7%99-%D7%94%D7%9E%D7%A9%D7%97%D7%A7-%D7%A2%D7%9D-activity-7345081135632109568-FjAE?utm_source=share&utm_medium=member_desktop&rcm=ACoAACuZr-YBKQOjAyJhTu2UWTpznYdb26N-RKY)
   Context: https://www.linkedin.com/posts/orenmelamed_%D7%94%D7%97%D7%91%D7%A8%D7%94-%D7%A9%D7%9C-vscode-%D7%94%D7%A8%D7%92%D7%A2-%D7%A9%D7%99%D7%A0%D7%95-%D7%90%D7%AA-%D7%97%D7%95%D7%A7%D7%99-%D7%94%D7%9E%D7%A9%D7%97%D7%A7-%D7%A2%...
-- **30.12.2025** | `linkedin.com`
-  [https://www.linkedin.com/posts/orenmelamed_%D7%9C%D7%A9%D7%9E%D7%95%D7%A8-%D7%A2%D7%9C-%D7%94-context-window-%D7%A9%D7%9C-%D7%9E%D7%95%D7%93%D7%9C-%D7%AA%D7%97%D7%AA-%D7%A9%D7%9C%D7%99%D7%98%D7%94-activity-7411854175434665984-7ZLe?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_%D7%9C%D7%A9%D7%9E%D7%95%D7%A8-%D7%A2%D7%9C-%D7%94-context-window-%D7%A9%D7%9C-%D7%9E%D7%95%D7%93%D7%9C-%D7%AA%D7%97%D7%AA-%D7%A9%D7%9C%D7%99%D7%98%D7%94-activity-7411854175434665984-7ZLe?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
-  Context: הגיגים על ניהול קונטקסט ולמה זה בול כמו לשמור על קובץ תחת תקציב של שורות או PR קצר וממוקד ובונוס טיפים בסוף https://www.linkedin.com/posts/orenmelamed_%D7%9C%D7%A9%D7%9E%D7%95%D7%A8-%D7%A2%D7%9C-%D7%94-context-window-%D7...
 - **8.1.2026** | `linkedin.com`
   [https://www.linkedin.com/posts/dotan-talitman-30884575_%D7%90%D7%9D-%D7%99%D7%A9-%D7%9E%D7%99%D7%A9%D7%94%D7%95-%D7%A9%D7%90%D7%A0%D7%99-%D7%9E%D7%9E%D7%9C%D7%99%D7%A5-%D7%9C%D7%A2%D7%A7%D7%95%D7%91-%D7%90%D7%97%D7%A8%D7%99%D7%95-%D7%91%D7%9C%D7%99%D7%A0%D7%A7%D7%93%D7%99%D7%9F-activity-7415076134985527296-R5Et?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/dotan-talitman-30884575_%D7%90%D7%9D-%D7%99%D7%A9-%D7%9E%D7%99%D7%A9%D7%94%D7%95-%D7%A9%D7%90%D7%A0%D7%99-%D7%9E%D7%9E%D7%9C%D7%99%D7%A5-%D7%9C%D7%A2%D7%A7%D7%95%D7%91-%D7%90%D7%97%D7%A8%D7%99%D7%95-%D7%91%D7%9C%D7%99%D7%A0%D7%A7%D7%93%D7%99%D7%9F-activity-7415076134985527296-R5Et?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
   Context: מאחורי הקלעים של הפודקאסט מפתחים מחוץ לקופסא - היה גם וידאו (-: https://www.linkedin.com/posts/dotan-talitman-30884575_%D7%90%D7%9D-%D7%99%D7%A9-%D7%9E%D7%99%D7%A9%D7%94%D7%95-%D7%A9%D7%90%D7%A0%D7%99-%D7%9E%D7%9E%D7%9C%...
@@ -1577,9 +1627,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **7.4.2026** | `linkedin.com`
   [https://www.linkedin.com/posts/orenmelamed_nice-new-looking-control-to-allow-parallel-share-7447281521201344512-kQal?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_nice-new-looking-control-to-allow-parallel-share-7447281521201344512-kQal?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
   Context: יש כל מיני חידושים שבאים, בינתיים הוסיפו איזה משהו קטן לנוחות - מתי שיש ריבוי קריאות לאישור כלים אז הם איחדו את זה חוויה הרבה יותר נחמדה https://www.linkedin.com/posts/orenmelamed_nice-new-looking-control-to-allow-parall...
-- **10.4.2026** | `linkedin.com`
-  [https://www.linkedin.com/posts/idanshnitzki_token-consumption-matters-at-scale-and-activity-7448314313179779074-VQe_?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAABL2EU4BhZ1lzDd35pqtw38a8e0SYUFrD2s&utm_campaign=copy_link](https://www.linkedin.com/posts/idanshnitzki_token-consumption-matters-at-scale-and-activity-7448314313179779074-VQe_?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAABL2EU4BhZ1lzDd35pqtw38a8e0SYUFrD2s&utm_campaign=copy_link)
-  Context: https://www.linkedin.com/posts/idanshnitzki_token-consumption-matters-at-scale-and-activity-7448314313179779074-VQe_?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAABL2EU4BhZ1lzDd35pqtw38a8e0SYUFrD2s&utm_cam...
 - **12.4.2026** | `x.com`
   [https://x.com/orenme/status/2043361182422044939?s=46&t=igVJPayJaZPYz2ejB56O2w](https://x.com/orenme/status/2043361182422044939?s=46&t=igVJPayJaZPYz2ejB56O2w)
   Context: שלומי שיתף פה לאחרונה ועכשיו התחילו להציג את זה אפליקציית דסקטופ חדשה לגיטהאב https://x.com/orenme/status/2043361182422044939?s=46&t=igVJPayJaZPYz2ejB56O2w
@@ -1634,9 +1681,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **28.4.2026** | `linkedin.com`
   [https://www.linkedin.com/posts/orenmelamed_improved-skill-loading-experience-in-visual-ugcPost-7454977464713490433-noN0?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_improved-skill-loading-experience-in-visual-ugcPost-7454977464713490433-noN0?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
   Context: ושיפור משמעותי בחווית טעינת הסקילים כולל טעינה אוטומטית בתוך סאב אייג׳נט (שפעם היה חינם… 🙃) https://www.linkedin.com/posts/orenmelamed_improved-skill-loading-experience-in-visual-ugcPost-7454977464713490433-noN0?utm_sou...
-- **28.4.2026** | `linkedin.com`
-  [https://www.linkedin.com/posts/orenmelamed_more-clarity-on-githubcopilot-billing-change-share-7454797284774522880-cvpA?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_more-clarity-on-githubcopilot-billing-change-share-7454797284774522880-cvpA?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
-  Context: https://www.linkedin.com/posts/orenmelamed_more-clarity-on-githubcopilot-billing-change-share-7454797284774522880-cvpA?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE
 - **28.4.2026** | `linkedin.com` | occurrences: 3
   [https://www.linkedin.com/posts/orenmelamed_now-that-we-know-how-much-github-copilot-activity-7454973289783029763-KQQb?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_now-that-we-know-how-much-github-copilot-activity-7454973289783029763-KQQb?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
   Context: Chronicle הגיע לאינסיידרס https://www.linkedin.com/posts/orenmelamed_now-that-we-know-how-much-github-copilot-activity-7454973289783029763-KQQb?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_...
@@ -1649,19 +1693,12 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **2.5.2026** | `linkedin.com`
   [https://www.linkedin.com/posts/orenmelamed_i-did-this-my-visual-studio-code-pr-got-activity-7456262054383882240-vRUf?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_i-did-this-my-visual-studio-code-pr-got-activity-7456262054383882240-vRUf?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
   Context: רישמית תורם קוד לvscode מירג׳ג׳ו לי את ה PR https://www.linkedin.com/posts/orenmelamed_i-did-this-my-visual-studio-code-pr-got-activity-7456262054383882240-vRUf?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_...
-- **2.5.2026** | `linkedin.com`
-  [https://www.linkedin.com/posts/orenmelamed_new-token-controls-dropping-in-visual-studio-activity-7456265214250921984-mTNg?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_new-token-controls-dropping-in-visual-studio-activity-7456265214250921984-mTNg?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
-  Context: https://www.linkedin.com/posts/orenmelamed_new-token-controls-dropping-in-visual-studio-activity-7456265214250921984-mTNg?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE
 - **5.5.2026** | `linkedin.com`
   [https://www.linkedin.com/in/danielmeppiel/](https://www.linkedin.com/in/danielmeppiel/)
   Context: זה הבחור שמפתח את זה אני מניח שאורן ישלוף את הפוסטים הרלוונטיים ברגע שיהיה לו זמן :) https://www.linkedin.com/in/danielmeppiel/
 - **7.5.2026** | `x.com`
   [https://x.com/theo/status/2051395816410210604?s=46](https://x.com/theo/status/2051395816410210604?s=46)
   Context: https://x.com/theo/status/2051395816410210604?s=46
-
-- **12.5.2026** | `linkedin.com`
-  [https://www.linkedin.com/posts/orenmelamed_thats-gonna-be-a-fun-one-github-just-released-activity-7460046113660760064-8ija?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_thats-gonna-be-a-fun-one-github-just-released-activity-7460046113660760064-8ija?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
-  Context: ודו״ח השימוש החודשי עם הערכה של תשלום למעבר לטוקנים בדיוק יצא שלחו לCFO שלכם https://www.linkedin.com/posts/orenmelamed_thats-gonna-be-a-fun-one-github-just-released-activity-7460046113660760064-8ija?utm_source=share&utm...
 - **14.5.2026** | `linkedin.com`
   [https://www.linkedin.com/posts/assaelaz_starting-next-month-github-copilot-is-moving-share-7460614921085571072-gkJL?utm_source=share&utm_medium=member_ios&rcm=ACoAAAy3OfUBWwQqiDNTnW8CZorf0rJOkCCO9rM](https://www.linkedin.com/posts/assaelaz_starting-next-month-github-copilot-is-moving-share-7460614921085571072-gkJL?utm_source=share&utm_medium=member_ios&rcm=ACoAAAy3OfUBWwQqiDNTnW8CZorf0rJOkCCO9rM)
   Context: שיתפתי פה על איך זה עובד וקצת על היכולות. https://www.linkedin.com/posts/assaelaz_starting-next-month-github-copilot-is-moving-share-7460614921085571072-gkJL?utm_source=share&utm_medium=member_ios&rcm=ACoAAAy3OfUBWwQqiDN...
@@ -1680,9 +1717,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **20.5.2026** | `linkedin.com`
   [https://www.linkedin.com/pulse/%D7%94%D7%A1%D7%95%D7%9B%D7%9F-%D7%A9%D7%9C%D7%9B%D7%9D-%D7%9C%D7%90-%D7%A6%D7%A8%D7%99%D7%9A-%D7%A7%D7%95%D7%A0%D7%98%D7%A7%D7%A1%D7%98-%D7%94%D7%95%D7%90-%D7%94%D7%9E%D7%A9%D7%9B%D7%99%D7%95%D7%AA-adir-duchan-%D7%94%D7%94%D7%95%D7%90-%D7%9E%D7%94%D7%96%D7%94--tjvte?utm_source=share&utm_medium=member_ios&utm_campaign=share_via](https://www.linkedin.com/pulse/%D7%94%D7%A1%D7%95%D7%9B%D7%9F-%D7%A9%D7%9C%D7%9B%D7%9D-%D7%9C%D7%90-%D7%A6%D7%A8%D7%99%D7%9A-%D7%A7%D7%95%D7%A0%D7%98%D7%A7%D7%A1%D7%98-%D7%94%D7%95%D7%90-%D7%94%D7%9E%D7%A9%D7%9B%D7%99%D7%95%D7%AA-adir-duchan-%D7%94%D7%94%D7%95%D7%90-%D7%9E%D7%94%D7%96%D7%94--tjvte?utm_source=share&utm_medium=member_ios&utm_campaign=share_via)
   Context: https://www.linkedin.com/pulse/%D7%94%D7%A1%D7%95%D7%9B%D7%9F-%D7%A9%D7%9C%D7%9B%D7%9D-%D7%9C%D7%90-%D7%A6%D7%A8%D7%99%D7%9A-%D7%A7%D7%95%D7%A0%D7%98%D7%A7%D7%A1%D7%98-%D7%94%D7%95%D7%90-%D7%94%D7%9E%D7%A9%D7%9B%D7%99%D7...
-- **24.5.2026** | `linkedin.com`
-  [https://www.linkedin.com/posts/orenmelamed_if-you-want-your-i-know-how-to-use-ai-coding-share-7464358145201598464-w0sP/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_if-you-want-your-i-know-how-to-use-ai-coding-share-7464358145201598464-w0sP/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
-  Context: תוספת נחמדה באינסיידרס שמאפשרת לקבל ניתוח מעמיק של ביזבוז טוקנים והצעות לשיפור זה סורק remote קודם ואז לוקאלי כי הרימוט מכיל יותר מידע אבל הרוב עדין אין להם רימוט אבל עדין זה מצוין זה קטל אותי בריוויו, אז אם הייתי משתף פ...
 - **29.5.2026** | `linkedin.com`
   [https://www.linkedin.com/posts/danp1_github-juliusbrusseecaveman-why-use-share-7465529451171475456-AdFH/?utm_source=share&utm_medium=member_android&rcm=ACoAAAEWt7EBpmLhBs3Vm1Fg_mZJrsd7ZZDF0Yg](https://www.linkedin.com/posts/danp1_github-juliusbrusseecaveman-why-use-share-7465529451171475456-AdFH/?utm_source=share&utm_medium=member_android&rcm=ACoAAAEWt7EBpmLhBs3Vm1Fg_mZJrsd7ZZDF0Yg)
   Context: https://www.linkedin.com/posts/danp1_github-juliusbrusseecaveman-why-use-share-7465529451171475456-AdFH/?utm_source=share&utm_medium=member_android&rcm=ACoAAAEWt7EBpmLhBs3Vm1Fg_mZJrsd7ZZDF0Yg
@@ -1696,20 +1730,16 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
   [https://www.linkedin.com/feed/update/urn:li:activity:7466958441652355074/](https://www.linkedin.com/feed/update/urn:li:activity:7466958441652355074/)
   Context: https://www.linkedin.com/feed/update/urn:li:activity:7466958441652355074/ <ההודעה נערכה>
 - **1.6.2026** | `linkedin.com`
-  [https://www.linkedin.com/posts/leon-melamud_adlc-cost-efficiency-ugcPost-7467094938850197504-4Dwn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1J5LgBWeMj_PkCLgBH8oE6M-fWRWK0krk](https://www.linkedin.com/posts/leon-melamud_adlc-cost-efficiency-ugcPost-7467094938850197504-4Dwn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1J5LgBWeMj_PkCLgBH8oE6M-fWRWK0krk)
-  Context: מוסיף עוד כמה טיפים לחסכון טוקנים לאחר הגזרות הכלכליות מצד קופיילוט וקלוד מהיום https://www.linkedin.com/posts/leon-melamud_adlc-cost-efficiency-ugcPost-7467094938850197504-4Dwn/?utm_source=share&utm_medium=member_deskto...
-- **1.6.2026** | `linkedin.com`
   [https://www.linkedin.com/posts/orenmelamed_a-guy-walks-into-a-doctor-doctor-im-sorry-ugcPost-7467289110928482304-HhrT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_a-guy-walks-into-a-doctor-doctor-im-sorry-ugcPost-7467289110928482304-HhrT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
   Context: https://www.linkedin.com/posts/orenmelamed_a-guy-walks-into-a-doctor-doctor-im-sorry-ugcPost-7467289110928482304-HhrT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE
 - **1.6.2026** | `linkedin.com`
   [https://www.linkedin.com/posts/orenmelamed_aics-spotted-in-the-wild-in-visual-studio-ugcPost-7467068424897290240-1YPG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_aics-spotted-in-the-wild-in-visual-studio-ugcPost-7467068424897290240-1YPG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
   Context: https://www.linkedin.com/posts/orenmelamed_aics-spotted-in-the-wild-in-visual-studio-ugcPost-7467068424897290240-1YPG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE
-- **1.6.2026** | `linkedin.com`
-  [https://www.linkedin.com/pulse/github-copilot-token-tax-here-you-ready-ubb-oren-melamed-7zwhf/](https://www.linkedin.com/pulse/github-copilot-token-tax-here-you-ready-ubb-oren-melamed-7zwhf/)
-  Context: https://www.linkedin.com/pulse/github-copilot-token-tax-here-you-ready-ubb-oren-melamed-7zwhf/
 - **4.6.2026** | `linkedin.com`
   [https://www.linkedin.com/posts/orenmelamed_1m-tokens-baby-github-copilot-supports-share-7468373167791562752-kO7N/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_1m-tokens-baby-github-copilot-supports-share-7468373167791562752-kO7N/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
   Context: https://www.linkedin.com/posts/orenmelamed_1m-tokens-baby-github-copilot-supports-share-7468373167791562752-kO7N/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE
+
+
 
 ## Other Links
 
@@ -1734,13 +1764,11 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **26.5.2026** | `share.articulate.com`
   [https://share.articulate.com/pmpueguUReJvPTq-7f_aY#/](https://share.articulate.com/pmpueguUReJvPTq-7f_aY#/)
   Context: https://share.articulate.com/pmpueguUReJvPTq-7f_aY#/
-- **1.6.2026** | `share.articulate.com` | occurrences: 2
-  [https://share.articulate.com/pmpueguUReJvPTq-7f_aY#/lessons/OGJRPBujjCiFDnCdRGCUJW3kXqt6tBsa](https://share.articulate.com/pmpueguUReJvPTq-7f_aY#/lessons/OGJRPBujjCiFDnCdRGCUJW3kXqt6tBsa)
-  Context: its pool model - https://share.articulate.com/pmpueguUReJvPTq-7f_aY#/lessons/OGJRPBujjCiFDnCdRGCUJW3kXqt6tBsa . this is way you should have budget per user
+
 
 ## Domain Summary
 
-- Total unique links after dedupe: 555
+- Total unique links after dedupe: 556
 - Duplicate entries removed: 3
 - Link occurrences in source export: 628
 - Showing domains with 15 or more links
@@ -1748,7 +1776,7 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 | Domain | Links |
 | --- | ---: |
 | `linkedin.com` | 191 |
-| `github.com` | 85 |
+| `github.com` | 86 |
 | `youtube.com` | 33 |
 | `github.blog` | 23 |
 | `youtu.be` | 20 |
