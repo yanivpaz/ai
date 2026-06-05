@@ -30,19 +30,19 @@ A curated list of AI builders, researchers, CEOs, YouTube channels, and X/Twitte
 - [Thariq Shihipar](https://x.com/trq212) - Claude Code / AI engineering
 
 ## Top AI YouTube influencers
-- [Fireship](https://www.youtube.com/@Fireship)  
-- [NetworkChuck](https://www.youtube.com/@NetworkChuck)
-- [Theo](https://www.youtube.com/@t3dotgg/videos)
-- [Matt Wolfe](https://www.youtube.com/@mreflow)
-- [Kevin Stratvert](https://www.youtube.com/@KevinStratvert) – Tech & programming education  
-- [matthew berman](https://www.youtube.com/@matthew_berman/videos)
-- [Nick Saraev](https://www.youtube.com/channel/UCbo-KbSjJDG6JWQ_MTZ_rNA)
-- [Cole Medin](https://www.youtube.com/@ColeMedin)  
-- [AI Jason](https://www.youtube.com/@AIJasonZ)
-- [Code with harry](https://www.youtube.com/@CodeWithHarry/videos)
-- [Nate Herk](https://www.youtube.com/channel/UC2ojq-nuP8ceeHqiroeKhBA)  
-- [TraversyMedia](https://www.youtube.com/@TraversyMedia/videos)
-- [Matt Pocock](https://www.youtube.com/@mattpocockuk/videos)  
+- [Fireship](https://www.youtube.com/@Fireship) - Fast explainers on AI tools, developer trends, and modern web tech
+- [NetworkChuck](https://www.youtube.com/@NetworkChuck) - Practical AI, cybersecurity, cloud, and homelab tutorials
+- [Theo](https://www.youtube.com/@t3dotgg/videos) - Developer commentary on AI coding tools, startups, and web engineering
+- [Matt Wolfe](https://www.youtube.com/@mreflow) - AI news, tool roundups, and hands-on workflow demos
+- [Kevin Stratvert](https://www.youtube.com/@KevinStratvert) - Clear tutorials for productivity tools, AI features, and programming basics
+- [matthew berman](https://www.youtube.com/@matthew_berman/videos) - LLM news, model testing, AI agents, and open-source AI tools
+- [Nick Saraev](https://www.youtube.com/channel/UCbo-KbSjJDG6JWQ_MTZ_rNA) - AI automation, no-code workflows, and business use cases
+- [Cole Medin](https://www.youtube.com/@ColeMedin) - AI agents, local LLMs, automation, and applied coding workflows
+- [AI Jason](https://www.youtube.com/@AIJasonZ) - AI app building, agent workflows, and practical automation tutorials
+- [Code with harry](https://www.youtube.com/@CodeWithHarry/videos) - Programming courses, AI-assisted coding, and beginner-friendly development
+- [Nate Herk](https://www.youtube.com/channel/UC2ojq-nuP8ceeHqiroeKhBA) - AI automation systems, agents, and workflow builders
+- [TraversyMedia](https://www.youtube.com/@TraversyMedia/videos) - Web development tutorials with practical AI and coding tool coverage
+- [Matt Pocock](https://www.youtube.com/@mattpocockuk/videos) - TypeScript education, developer tooling, and AI-assisted coding workflows
 
 
 ## Top AI influencers on LinkedIn
