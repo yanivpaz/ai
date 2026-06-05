@@ -21,6 +21,7 @@ A focused glossary for AI development, coding agents, prompting, and the everyda
   - [GSD / Get Shit Done](#gsd--get-shit-done)
   - [Superpowers](#superpowers)
   - [Waza](#waza)
+  - [vscode-chat-customizations-evaluation](#vscode-chat-customizations-evaluation)
 - [Evaluation](#evaluation)
   - [Terminal Bench](#terminal-bench)
   - [SWE-bench](#swe-bench)
@@ -114,6 +115,13 @@ Repo: [obra/superpowers](https://github.com/obra/superpowers)
 Microsoft's CLI and evaluation framework for agent skills, used to create, test, benchmark, and improve skill quality across workflows and models.
 
 Repo: [microsoft/waza](https://github.com/microsoft/waza)
+
+### vscode-chat-customizations-evaluation
+
+An extension for analyzing and improving AI prompt files. Works with .prompt.md, .agent.md, SKILL.md, and .instructions.md files — providing LLM-powered semantic analysis directly in VS Code.  
+
+Repo: [microsoft/vscode-chat-customizations-evaluation](https://github.com/microsoft/vscode-chat-customizations-evaluation)
+
 
 ## Evaluation
 
