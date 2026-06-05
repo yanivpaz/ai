@@ -1,0 +1,2 @@
+- OPUS is better in cursor? https://youtu.be/WnBx1Vi7M6w?t=419  
+- A community trust management system. https://github.com/mitchellh/vouch  
