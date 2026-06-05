@@ -45,7 +45,7 @@ A curated list of AI builders, researchers, CEOs, YouTube channels, and X/Twitte
 - [Code](https://www.youtube.com/@code) – Programming tutorials  
 - [GitHub](https://www.youtube.com/@GitHub) – Official GitHub channel
 
-## Other AI influencers
+## Linkedin AI influencers
 - [Oren Melamed](https://www.linkedin.com/in/orenmelamed/)
 
 ## AI leaders and builders
