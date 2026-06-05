@@ -1,6 +1,8 @@
 # Top AI People to Follow
 
 A curated list of AI builders, researchers, CEOs, YouTube channels, and X/Twitter accounts focused on Claude, GitHub Copilot, coding agents, and real-world AI workflows.
+
+
 ## Top AI voices on X / Twitter
 - [Andrej Karpathy](https://x.com/karpathy) - AI research, education, coding agents
 - [Sam Altman](https://x.com/sama) - OpenAI CEO
@@ -22,7 +24,10 @@ A curated list of AI builders, researchers, CEOs, YouTube channels, and X/Twitte
 - [Cristobal Valenzuela](https://x.com/c_valenzuelab) - Runway co-founder
 - [Logan Kilpatrick](https://x.com/OfficialLoganK) - AI developer relations
 - [Sebastian Raschka](https://x.com/rasbt) - machine learning education
-
+- [Michael Truell](https://x.com/mtruell) - Cursor / Anysphere co-founder and CEO
+- [Mario Zechner](https://x.com/badlogicgames) - creator of PI and libGDX
+- [Boris Cherny](https://x.com/bcherny) - Claude Code / AI coding tools
+- [Thariq Shihipar](https://x.com/trq212) - Claude Code / AI engineering
 
 ## Top AI YouTube influencers
 - [Fireship](https://www.youtube.com/@Fireship)  
@@ -39,25 +44,26 @@ A curated list of AI builders, researchers, CEOs, YouTube channels, and X/Twitte
 - [TraversyMedia](https://www.youtube.com/@TraversyMedia/videos)
 - [Matt Pocock](https://www.youtube.com/@mattpocockuk/videos)  
 
+
+## Top AI influencers on LinkedIn
+- [Oren Melamed](https://www.linkedin.com/in/orenmelamed/)
+- [Andrew Ng](https://www.linkedin.com/in/andrewyng/) - AI education, machine learning, agentic workflows
+- [Steve Nouri](https://www.linkedin.com/in/stevenouri/) - generative AI, agentic AI, AI community building
+- [Allie K. Miller](https://www.linkedin.com/in/alliekmiller/) - AI business strategy, startups, executive adoption
+- [Cassie Kozyrkov](https://www.linkedin.com/in/kozyrkov/) - decision intelligence, statistics, AI risk
+- [Bernard Marr](https://www.linkedin.com/in/bernardmarr/) - AI trends, business strategy, industry use cases
+- [Fei-Fei Li](https://www.linkedin.com/in/fei-fei-li-4541247/) - computer vision, human-centered AI, AI ethics
+- [Ethan Mollick](https://www.linkedin.com/in/emollick/) - future of work, GenAI productivity, AI in education
+- [Alex Wang](https://www.linkedin.com/in/alex-wang-ai/) - AI learning, data science, workforce upskilling
+- [Yann LeCun](https://www.linkedin.com/in/yann-lecun/) - open-source AI, world models, deep learning
+- [Demis Hassabis](https://www.linkedin.com/in/demishassabis/) - AGI research, AlphaFold, scientific AI
+
+
 ## Microsoft / github
 - [Burke Holland](https://www.youtube.com/@BurkeHolland) – Web dev & coding tips  
 - [James Montemagno](https://www.youtube.com/@JamesMontemagno) – Mobile & cross-platform
 - [Code](https://www.youtube.com/@code) – Programming tutorials  
 - [GitHub](https://www.youtube.com/@GitHub) – Official GitHub channel
-
-## Linkedin AI influencers
-- [Oren Melamed](https://www.linkedin.com/in/orenmelamed/)
-
-## AI leaders and builders
-- [Michael Truell](https://x.com/mtruell) - Cursor / Anysphere co-founder and CEO
-- [Mario Zechner](https://x.com/badlogicgames) - creator of PI and libGDX
-- [Dario Amodei](https://darioamodei.com/) - Anthropic CEO
-- [Jensen Huang](https://www.nvidia.com/en-us/about-nvidia/management-team/jensen-huang/) - NVIDIA founder and CEO
-- [Boris Cherny](https://x.com/bcherny) - Claude Code / AI coding tools
-- [Thariq Shihipar](https://x.com/trq212) - Claude Code / AI engineering
-
-
-
 
 ## 🔬 Deep Understanding (AI Concepts)
 - [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers)  
