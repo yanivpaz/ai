@@ -9,15 +9,16 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 
 ## Table of Contents
 
-- [GitHub Copilot and GitHub AI](#github-copilot-and-github-ai) (67)
-- [GitHub Repositories and Code](#github-repositories-and-code) (24)
-- [MCP, Agents, and Protocols](#mcp-agents-and-protocols) (144)
+- [GitHub Copilot and GitHub AI](#github-copilot-and-github-ai) (65)
+- [GitHub Repositories and Code](#github-repositories-and-code) (23)
+- [MCP, Agents, and Protocols](#mcp-agents-and-protocols) (142)
 - [VS Code, Extensions, and Developer Tools](#vs-code-extensions-and-developer-tools) (16)
 - [Microsoft, Azure, and Official Docs](#microsoft-azure-and-official-docs) (5)
+- [Learn](#learn) (11)
 - [Videos, Demos, and Talks](#videos-demos-and-talks) (47)
 - [Research, Models, and Papers](#research-models-and-papers) (5)
 - [Packages, Platforms, and Services](#packages-platforms-and-services) (16)
-- [Events, Courses, and Community](#events-courses-and-community) (12)
+- [Events, Courses, and Community](#events-courses-and-community) (6)
 - [Shared Docs, Forms, and Scheduling](#shared-docs-forms-and-scheduling) (5)
 - [Articles, Blogs, and News](#articles-blogs-and-news) (22)
 - [Social Posts and Discussions](#social-posts-and-discussions) (184)
@@ -29,9 +30,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **9.12.2025** | `docs.github.com`
   [https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions](https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions)
   Context: In addition to the details you supply here, Copilot will use any custom instructions that have been configured for the target repository. See Adding repository custom instructions for GitHub Copilot. https://docs.github....
-- **9.12.2025** | `docs.github.com`
-  [https://docs.github.com/en/copilot/tutorials/optimize-code-reviews](https://docs.github.com/en/copilot/tutorials/optimize-code-reviews)
-  Context: https://docs.github.com/en/copilot/tutorials/optimize-code-reviews
 - **18.12.2025** | `github.com`
   [https://github.com/anthropics/skills](https://github.com/anthropics/skills)
   Context: https://github.com/anthropics/skills
@@ -107,9 +105,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **13.2.2026** | `github.com`
   [https://github.com/github/awesome-copilot/blob/main/docs/README.hooks.md](https://github.com/github/awesome-copilot/blob/main/docs/README.hooks.md)
   Context: הבטחתי לינקים ושכחתי - אז הנה הם, על הוקים https://code.visualstudio.com/docs/copilot/customization/hooks https://github.com/github/awesome-copilot/blob/main/docs/README.hooks.md
-- **19.2.2026** | `learn.github.com`
-  [https://learn.github.com/skills](https://learn.github.com/skills)
-  Context: במקרה ולא הכרתם - יש כאן המון שיעורים על גיטהאב, אקשיינס ועל קופיילוט - https://learn.github.com/skills
 - **27.2.2026** | `github.com`
   [https://github.com/tamirdresher/cli-tunnel](https://github.com/tamirdresher/cli-tunnel)
   Context: Hi Everyone Ever wished you could work with k9s or the Coplilot CLI from your phone? 🤳 Well now you can!!! I built a tool that tunnels ANY CLI app to your browser — full terminal, real output, interactive. It uses a PTY...
@@ -228,9 +223,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
   [https://github.com/abhi-singhs/copilot-token-meter](https://github.com/abhi-singhs/copilot-token-meter)
   Context: https://github.com/abhi-singhs/copilot-token-meter
 
-
-
-
 ## GitHub Repositories and Code
 
 - **2.12.2025** | `github.com` | occurrences: 3
@@ -275,9 +267,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **20.3.2026** | `github.com` | occurrences: 2
   [https://github.com/burkeholland/max](https://github.com/burkeholland/max)
   Context: הנה, קופיילוט לטלגרם https://github.com/burkeholland/max
-- **25.3.2026** | `github.com`
-  [https://github.com/resources/events/github-roadmap-webinar-q1](https://github.com/resources/events/github-roadmap-webinar-q1)
-  Context: יש מחר סשיין שנראה מעניין https://github.com/resources/events/github-roadmap-webinar-q1
 - **27.3.2026** | `github.com`
   [https://github.com/shep-ai/cli](https://github.com/shep-ai/cli)
   Context: בוקר טוב וכמעט שבת שלום כבר כמה חודשים טובים שאני שקוע במחקר על איך לייעל ולטייב את ה-SDLC שלי ושל הקולגות שלי. בתור מי שתמיד שם דגש על תהליך פיתוח מוסדר - מהבנת דרישות המוצר, דרך אפיון טכני מעמיק ועד לשחרור - הרגשתי שה-...
@@ -306,9 +295,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
   [https://github.com/robotaitai/project-bedrock](https://github.com/robotaitai/project-bedrock)
   Context: בוקר טוב חברים אשמח תוכלו להקדיש שניה ולשים לי ⭐️ כוכב על הפרוייקט https://github.com/robotaitai/project-bedrock כמובן שאתם מוזמנים גם להתחיל להשתמש ולתת לסוכנים שלכם להתחיל להתנהל כמו צוות פיתוח (דוקומנטציה, ארכיטקטורות...
 
-
-
-
 ## MCP, Agents, and Protocols
 
 - **30.11.2025** | `learn.microsoft.com`
@@ -326,9 +312,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **10.12.2025** | `linkedin.com`
   [https://www.linkedin.com/posts/orenmelamed_%D7%9E%D7%A2%D7%9C%D7%94-%D7%9E%D7%93%D7%A8%D7%99%D7%9A-%D7%9C%D7%A1%D7%A7%D7%95%D7%A8-%D7%90%D7%AA-%D7%9B%D7%9C%D7%99-%D7%94-sub-agent-%D7%91-visual-activity-7395915842858917888-JFgV?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_%D7%9E%D7%A2%D7%9C%D7%94-%D7%9E%D7%93%D7%A8%D7%99%D7%9A-%D7%9C%D7%A1%D7%A7%D7%95%D7%A8-%D7%90%D7%AA-%D7%9B%D7%9C%D7%99-%D7%94-sub-agent-%D7%91-visual-activity-7395915842858917888-JFgV?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
   Context: https://www.linkedin.com/posts/orenmelamed_%D7%9E%D7%A2%D7%9C%D7%94-%D7%9E%D7%93%D7%A8%D7%99%D7%9A-%D7%9C%D7%A1%D7%A7%D7%95%D7%A8-%D7%90%D7%AA-%D7%9B%D7%9C%D7%99-%D7%94-sub-agent-%D7%91-visual-activity-739591584285891788...
-- **11.12.2025** | `learn.microsoft.com`
-  [https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/)
-  Context: https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/
 - **11.12.2025** | `linkedin.com`
   [https://www.linkedin.com/posts/orenmelamed_%D7%9E%D7%94-%D7%A9-visual-studio-code-%D7%A2%D7%95%D7%A9%D7%94-%D7%9C%D7%A2%D7%95%D7%9C%D7%9D-%D7%94-agentic-activity-7404985479508692992-vF-2?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_%D7%9E%D7%94-%D7%A9-visual-studio-code-%D7%A2%D7%95%D7%A9%D7%94-%D7%9C%D7%A2%D7%95%D7%9C%D7%9D-%D7%94-agentic-activity-7404985479508692992-vF-2?utm_source=share&utm_medium=member_ios&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
   Context: פוסט ״מאמר״ דעה הIDE הוא לא רק המקום לכתוב קוד, הוא האייפון החדש - כמו ששיחות נהיו רק עוד פיצ׳ר בו, ככה קוד נהיה עוד פונקציה בagentic IDE https://www.linkedin.com/posts/orenmelamed_%D7%9E%D7%94-%D7%A9-visual-studio-code-...
@@ -482,9 +465,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **27.1.2026** | `docs.github.com`
   [https://docs.github.com/en/copilot/concepts/tools/about-copilot-integrations#supported-integrations](https://docs.github.com/en/copilot/concepts/tools/about-copilot-integrations#supported-integrations)
   Context: אלה אינטגרציות הקיימות של coding agent - https://docs.github.com/en/copilot/concepts/tools/about-copilot-integrations#supported-integrations
-- **27.1.2026** | `streamyard.com`
-  [https://streamyard.com/watch/k8zk8RgUPmwY](https://streamyard.com/watch/k8zk8RgUPmwY)
-  Context: Webinar #1: GitHub Copilot as an AI Agent in the Software Development Workflow https://streamyard.com/watch/k8zk8RgUPmwY
 - **27.1.2026** | `remotion.dev`
   [https://www.remotion.dev/docs/ai/skills](https://www.remotion.dev/docs/ai/skills)
   Context: הנה מדריך רק שניה לפני שאני משתף את הלינק - מי שעושה עם זה משהו - שתפו פה בבקשה שנוכל להתלהב מהתוצרים https://www.remotion.dev/docs/ai/skills
@@ -745,8 +725,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
   [https://learn.microsoft.com/en-us/azure/devops/repos/git/copilot-code-reviews?view=azure-devops](https://learn.microsoft.com/en-us/azure/devops/repos/git/copilot-code-reviews?view=azure-devops)
   Context: לחובבי ADO יש עכשיו code review ל-PRs והקוד ריוויו עבר מודרניזציה ותומך בסקילים ובMCPs https://github.blog/changelog/2026-06-02-shape-copilot-code-review-around-your-team https://learn.microsoft.com/en-us/azure/devops/re...
 
-
-
 ## VS Code, Extensions, and Developer Tools
 
 - **9.12.2025** | `code.visualstudio.com`
@@ -799,8 +777,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
   [https://code.visualstudio.com/docs/copilot/overview](https://code.visualstudio.com/docs/copilot/overview)
   Context: תתחילי כאן https://code.visualstudio.com/docs/copilot/overview
 
-
-
 ## Microsoft, Azure, and Official Docs
 
 - **4.12.2025** | `developer.microsoft.com` | occurrences: 2
@@ -819,8 +795,42 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
   [https://teams.microsoft.com/l/meetup-join/19%3Ameeting_Mzg4NmJjMWMtYzkxYi00MzZlLWJkYjItMTg4YzJiYWFmMGFh%40thread.v2/0?context=%7B%22Tid%22%3A%22e0aca55d-91e8-4d83-9c6a-c8620e689339%22%2C%22Oid%22%3A%2257efab86-7b94-4284-8d6b-de01d968a794%22%2C%22IsBroadcastMeeting%22%3Atrue%2C%22role%22%3A%22a%22%7D&btype=a&role=a](https://teams.microsoft.com/l/meetup-join/19%3Ameeting_Mzg4NmJjMWMtYzkxYi00MzZlLWJkYjItMTg4YzJiYWFmMGFh%40thread.v2/0?context=%7B%22Tid%22%3A%22e0aca55d-91e8-4d83-9c6a-c8620e689339%22%2C%22Oid%22%3A%2257efab86-7b94-4284-8d6b-de01d968a794%22%2C%22IsBroadcastMeeting%22%3Atrue%2C%22role%22%3A%22a%22%7D&btype=a&role=a)
   Context: https://teams.microsoft.com/l/meetup-join/19%3Ameeting_Mzg4NmJjMWMtYzkxYi00MzZlLWJkYjItMTg4YzJiYWFmMGFh%40thread.v2/0?context=%7B%22Tid%22%3A%22e0aca55d-91e8-4d83-9c6a-c8620e689339%22%2C%22Oid%22%3A%2257efab86-7b94-4284-...
 
+## Learn
 
+- **9.12.2025** | `docs.github.com`
+  [https://docs.github.com/en/copilot/tutorials/optimize-code-reviews](https://docs.github.com/en/copilot/tutorials/optimize-code-reviews)
+  Context: https://docs.github.com/en/copilot/tutorials/optimize-code-reviews
+- **11.12.2025** | `learn.microsoft.com`
+  [https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/)
+  Context: https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/
+- **8.1.2026** | `geekacademy.co.il`
+  [https://geekacademy.co.il/](https://geekacademy.co.il/)
+  Context: ממליץ להירשם בעיקר לסדנא הראשונה https://geekacademy.co.il/
+- **27.1.2026** | `streamyard.com`
+  [https://streamyard.com/watch/k8zk8RgUPmwY](https://streamyard.com/watch/k8zk8RgUPmwY)
+  Context: Webinar #1: GitHub Copilot as an AI Agent in the Software Development Workflow https://streamyard.com/watch/k8zk8RgUPmwY
+- **19.2.2026** | `learn.github.com`
+  [https://learn.github.com/skills](https://learn.github.com/skills)
+  Context: במקרה ולא הכרתם - יש כאן המון שיעורים על גיטהאב, אקשיינס ועל קופיילוט - https://learn.github.com/skills
+- **25.3.2026** | `github.com`
+  [https://github.com/resources/events/github-roadmap-webinar-q1](https://github.com/resources/events/github-roadmap-webinar-q1)
+  Context: יש מחר סשיין שנראה מעניין https://github.com/resources/events/github-roadmap-webinar-q1
+- **19.4.2026** | `u-btech.com`
+  [https://www.u-btech.com/github-copilot-cli-20-4-26/](https://www.u-btech.com/github-copilot-cli-20-4-26/)
+  Context: From idea to working code, in one hour! 🚀 Join us for a one time, technical webinar where we’ll explore the latest innovations and updates in *GitHub Copilot CLI*, and build a full end to end app *live* in an interactiv...
 
+- **21.4.2026** | `frontendmasters.com`
+  [https://frontendmasters.com/workshops/advanced-claude-code/](https://frontendmasters.com/workshops/advanced-claude-code/)
+  Context: https://frontendmasters.com/workshops/advanced-claude-code/ יש את זה היום אחהצ למי שמעוניין (קלוד קוד)
+- **7.5.2026** | `github.ondemand.goldcast.io` | occurrences: 3
+  [https://github.ondemand.goldcast.io/on-demand/34e2b4f5-74e8-4f0b-9a3c-a7a438eb2696](https://github.ondemand.goldcast.io/on-demand/34e2b4f5-74e8-4f0b-9a3c-a7a438eb2696)
+  Context: https://github.ondemand.goldcast.io/on-demand/34e2b4f5-74e8-4f0b-9a3c-a7a438eb2696
+- **7.5.2026** | `github.registration.goldcast.io`
+  [https://github.registration.goldcast.io/webinar/9c23608e-dc81-41f3-82c2-6629c9a26f36](https://github.registration.goldcast.io/webinar/9c23608e-dc81-41f3-82c2-6629c9a26f36)
+  Context: https://github.registration.goldcast.io/webinar/9c23608e-dc81-41f3-82c2-6629c9a26f36
+- **25.5.2026** | `github.ondemand.goldcast.io` | occurrences: 2
+  [https://github.ondemand.goldcast.io/on-demand/06123d21-1ed9-4fac-b319-2e9a36b33bbd](https://github.ondemand.goldcast.io/on-demand/06123d21-1ed9-4fac-b319-2e9a36b33bbd)
+  Context: סשן של גיטהאב על חסכון בטוקנים. https://github.ondemand.goldcast.io/on-demand/06123d21-1ed9-4fac-b319-2e9a36b33bbd
 
 ## Videos, Demos, and Talks
 
@@ -966,9 +976,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
   [https://www.youtube.com/watch?v=JsZ3q8OKsMM](https://www.youtube.com/watch?v=JsZ3q8OKsMM)
   Context: did you try otel ? https://www.youtube.com/watch?v=JsZ3q8OKsMM
 
-
-
-
 ## Research, Models, and Papers
 
 - **11.12.2025** | `arcprize.org`
@@ -986,9 +993,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **20.4.2026** | `arxiv.org`
   [https://arxiv.org/pdf/2601.10112](https://arxiv.org/pdf/2601.10112)
   Context: מציע לבדוק שימוש ב-RIG. זה תהליך שמאנדקס לך את כל הריפו בצורה מאוד קומפקטית. אם יש לך כוח לקרוא, הנה מאמר של חוקרים מאוניברסיטת תל-אביב שמסביר https://arxiv.org/pdf/2601.10112 סיכום קצר שלו: 1. המאמר מציג את Repository I...
-
-
-
 
 ## Packages, Platforms, and Services
 
@@ -1042,8 +1046,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
   [https://chunkhound.github.io/](https://chunkhound.github.io/)
   Context: מה לגבי chunkhound? https://chunkhound.github.io/
 
-
-
 ## Events, Courses, and Community
 
 - **2.12.2025** | `llm.org.il` | occurrences: 3
@@ -1055,9 +1057,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **24.12.2025** | `luma.com`
   [https://luma.com/f9synbbf](https://luma.com/f9synbbf)
   Context: רוצים לראות איך בונים, מריצים ועושים סקייל למערכות אוטומציה ו-AI בפרודקשן עם n8n? 🤖⚙️ *n8n Israel - January Community Meetup* הרצאות קצרות ומעשיות: Building Production-Ready AI Agents with Real-Time Web Data Agentic Dev...
-- **8.1.2026** | `geekacademy.co.il`
-  [https://geekacademy.co.il/](https://geekacademy.co.il/)
-  Context: ממליץ להירשם בעיקר לסדנא הראשונה https://geekacademy.co.il/
 - **12.1.2026** | `chat.whatsapp.com` | occurrences: 2
   [https://chat.whatsapp.com/B9zw49KxddGGD1CZI7fLKy](https://chat.whatsapp.com/B9zw49KxddGGD1CZI7fLKy)
   Context: https://chat.whatsapp.com/B9zw49KxddGGD1CZI7fLKy
@@ -1067,24 +1066,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **26.2.2026** | `info.varonis.com`
   [https://info.varonis.com/en/techsync-varonis-meetup-ai-impact-2026-03-11](https://info.varonis.com/en/techsync-varonis-meetup-ai-impact-2026-03-11)
   Context: למי שאמר תודה ל @⁨~Yoav⁩ , הוא עכשיו עושה מיטאפ - ממליץ https://info.varonis.com/en/techsync-varonis-meetup-ai-impact-2026-03-11
-- **19.4.2026** | `u-btech.com`
-  [https://www.u-btech.com/github-copilot-cli-20-4-26/](https://www.u-btech.com/github-copilot-cli-20-4-26/)
-  Context: From idea to working code, in one hour! 🚀 Join us for a one time, technical webinar where we’ll explore the latest innovations and updates in *GitHub Copilot CLI*, and build a full end to end app *live* in an interactiv...
-
-- **21.4.2026** | `frontendmasters.com`
-  [https://frontendmasters.com/workshops/advanced-claude-code/](https://frontendmasters.com/workshops/advanced-claude-code/)
-  Context: https://frontendmasters.com/workshops/advanced-claude-code/ יש את זה היום אחהצ למי שמעוניין (קלוד קוד)
-- **7.5.2026** | `github.ondemand.goldcast.io` | occurrences: 3
-  [https://github.ondemand.goldcast.io/on-demand/34e2b4f5-74e8-4f0b-9a3c-a7a438eb2696](https://github.ondemand.goldcast.io/on-demand/34e2b4f5-74e8-4f0b-9a3c-a7a438eb2696)
-  Context: https://github.ondemand.goldcast.io/on-demand/34e2b4f5-74e8-4f0b-9a3c-a7a438eb2696
-- **7.5.2026** | `github.registration.goldcast.io`
-  [https://github.registration.goldcast.io/webinar/9c23608e-dc81-41f3-82c2-6629c9a26f36](https://github.registration.goldcast.io/webinar/9c23608e-dc81-41f3-82c2-6629c9a26f36)
-  Context: https://github.registration.goldcast.io/webinar/9c23608e-dc81-41f3-82c2-6629c9a26f36
-- **25.5.2026** | `github.ondemand.goldcast.io` | occurrences: 2
-  [https://github.ondemand.goldcast.io/on-demand/06123d21-1ed9-4fac-b319-2e9a36b33bbd](https://github.ondemand.goldcast.io/on-demand/06123d21-1ed9-4fac-b319-2e9a36b33bbd)
-  Context: סשן של גיטהאב על חסכון בטוקנים. https://github.ondemand.goldcast.io/on-demand/06123d21-1ed9-4fac-b319-2e9a36b33bbd
-
-
 
 ## Shared Docs, Forms, and Scheduling
 
@@ -1103,9 +1084,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **5.3.2026** | `share.google`
   [https://share.google/7F1mfDchhgdxvu3PK](https://share.google/7F1mfDchhgdxvu3PK)
   Context: Copilot metrics now includes plan mode - GitHub Changelog https://share.google/7F1mfDchhgdxvu3PK
-
-
-
 
 ## Articles, Blogs, and News
 
@@ -1176,8 +1154,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **2.6.2026** | `microsoft.ai`
   [https://microsoft.ai/news/introducingmai-code-1-flash/](https://microsoft.ai/news/introducingmai-code-1-flash/)
   Context: https://microsoft.ai/news/introducingmai-code-1-flash/
-
-
 
 ## Social Posts and Discussions
 
@@ -1734,8 +1710,6 @@ Extracted from WhatsApp export: `WhatsApp Chat - Copilot Israel (1).zip`.
 - **4.6.2026** | `linkedin.com`
   [https://www.linkedin.com/posts/orenmelamed_1m-tokens-baby-github-copilot-supports-share-7468373167791562752-kO7N/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE](https://www.linkedin.com/posts/orenmelamed_1m-tokens-baby-github-copilot-supports-share-7468373167791562752-kO7N/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE)
   Context: https://www.linkedin.com/posts/orenmelamed_1m-tokens-baby-github-copilot-supports-share-7468373167791562752-kO7N/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAGUwk8BHsP_lMq7u9opqXVEzqob_pPVovE
-
-
 
 ## Other Links
 
