@@ -4,12 +4,13 @@ A curated list of AI builders, researchers, CEOs, YouTube channels, and X/Twitte
 
 
 ## Top AI voices on X / Twitter
+- [Anthropic](https://x.com/AnthropicAI) - Anthropic
+- [Boris Cherny](https://x.com/bcherny) - Claude Code / AI coding tools
+- [Thariq Shihipar](https://x.com/trq212) - Claude Code / AI engineering
 - [Andrej Karpathy](https://x.com/karpathy) - AI research, education, coding agents
 - [Sam Altman](https://x.com/sama) - OpenAI CEO
 - [Greg Brockman](https://x.com/gdb) - OpenAI co-founder
 - [Demis Hassabis](https://x.com/demishassabis) - Google DeepMind CEO
-- [Andrew Ng](https://x.com/AndrewYNg) - DeepLearning.AI, AI education
-- [Yann LeCun](https://x.com/ylecun) - Meta AI chief scientist
 - [Fei-Fei Li](https://x.com/drfeifei) - Stanford HAI, computer vision
 - [Jim Fan](https://x.com/DrJimFan) - NVIDIA AI researcher
 - [Simon Willison](https://x.com/simonw) - AI engineering, LLM tooling
@@ -18,16 +19,14 @@ A curated list of AI builders, researchers, CEOs, YouTube channels, and X/Twitte
 - [Hamel Husain](https://x.com/HamelHusain) - AI evals and product engineering
 - [Lilian Weng](https://x.com/lilianweng) - AI research and agents
 - [Ethan Mollick](https://x.com/emollick) - practical AI adoption
-- [Nathan Lambert](https://x.com/natolambert) - AI research and open models
-- [Riley Goodside](https://x.com/goodside) - prompt engineering and LLM behavior
 - [Allie K. Miller](https://x.com/alliekmiller) - AI strategy and industry trends
-- [Cristobal Valenzuela](https://x.com/c_valenzuelab) - Runway co-founder
 - [Logan Kilpatrick](https://x.com/OfficialLoganK) - AI developer relations
 - [Sebastian Raschka](https://x.com/rasbt) - machine learning education
 - [Michael Truell](https://x.com/mtruell) - Cursor / Anysphere co-founder and CEO
 - [Mario Zechner](https://x.com/badlogicgames) - creator of PI and libGDX
-- [Boris Cherny](https://x.com/bcherny) - Claude Code / AI coding tools
-- [Thariq Shihipar](https://x.com/trq212) - Claude Code / AI engineering
+- [Hasan Toor](https://x.com/hasantoxr) - AI & Tech Educato
+- [Github](https://x.com/github) - Github 
+
 
 ## Top AI YouTube influencers
 - [Fireship](https://www.youtube.com/@Fireship) - Fast explainers on AI tools, developer trends, and modern web tech
@@ -46,7 +45,6 @@ A curated list of AI builders, researchers, CEOs, YouTube channels, and X/Twitte
 
 
 ## Top AI influencers on LinkedIn
-- [Oren Melamed](https://www.linkedin.com/in/orenmelamed/)
 - [Andrew Ng](https://www.linkedin.com/in/andrewyng/) - AI education, machine learning, agentic workflows
 - [Steve Nouri](https://www.linkedin.com/in/stevenouri/) - generative AI, agentic AI, AI community building
 - [Allie K. Miller](https://www.linkedin.com/in/alliekmiller/) - AI business strategy, startups, executive adoption
@@ -57,7 +55,8 @@ A curated list of AI builders, researchers, CEOs, YouTube channels, and X/Twitte
 - [Alex Wang](https://www.linkedin.com/in/alex-wang-ai/) - AI learning, data science, workforce upskilling
 - [Yann LeCun](https://www.linkedin.com/in/yann-lecun/) - open-source AI, world models, deep learning
 - [Demis Hassabis](https://www.linkedin.com/in/demishassabis/) - AGI research, AlphaFold, scientific AI
-
+- [Evan Boyle](https://www.linkedin.com/in/evan-boyle-107a1445/) - Microsoft
+- [Oren Melamed](https://www.linkedin.com/in/orenmelamed/)
 
 ## Microsoft / github
 - [Burke Holland](https://www.youtube.com/@BurkeHolland) – Web dev & coding tips  
